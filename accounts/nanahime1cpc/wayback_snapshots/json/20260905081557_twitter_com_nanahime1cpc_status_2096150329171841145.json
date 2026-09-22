@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2096141233840386392",
+    "created_at": "2026-09-05T08:15:57.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T09:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096150329171841145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445681460497694723",
+          "start": 0,
+          "username": "cryptochenrui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096150329171841145",
+    "in_reply_to_user_id": "1445681460497694723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096141233840386392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cryptochenrui 给我拿盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2096141233840386392",
+        "created_at": "2026-09-05T08:15:57.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096150329171841145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445681460497694723",
+              "start": 0,
+              "username": "cryptochenrui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096150329171841145",
+        "in_reply_to_user_id": "1445681460497694723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096141233840386392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cryptochenrui 给我拿盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445681460497694723",
+        "conversation_id": "2096141233840386392",
+        "created_at": "2026-09-05T07:39:49.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096141233840386392"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "南昌"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096141233840386392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有无南昌要愈美的。\n我要出掉一箱大概三十盒。\n送货上门，谁要\n#南昌 #od"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机@licar1949已寄｜od自伤｜一般路过同人女｜傻福精神病休学中｜直fo是喜欢泥💖｜爱人@cryptochenrui｜坚定的爱乱TV｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "licar1949"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2096150329171841145",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2094967352819683399",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 163,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "INTJ的精神病和od频道.\n大学退学，农村穷蛆。雏见泽村民。\n长滨城主。豫章岛夷。\ncrypto寄生虫。煤桶骑士。\n欢迎温良边缘人。有同类内容直fo。\n🈲过激健全品客男女拳。",
+        "id": "1445681460497694723",
+        "is_identity_verified": false,
+        "location": "南昌",
+        "most_recent_tweet_id": "2096148398676271453",
+        "name": "ritsuka",
+        "pinned_tweet_id": "2096148398676271453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445681460497694723/1786330998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094585357438242817/U9Hs19LI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 336,
+          "like_count": 11438,
+          "listed_count": 5,
+          "media_count": 163,
+          "tweet_count": 3015
+        },
+        "url": "",
+        "username": "cryptochenrui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

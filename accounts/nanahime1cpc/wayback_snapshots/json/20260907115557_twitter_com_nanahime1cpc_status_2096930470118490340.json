@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2096926292822327366",
+    "created_at": "2026-09-07T11:55:57.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096930470118490340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2096517972731043840",
+          "start": 0,
+          "username": "Mercydrugs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096930470118490340",
+    "in_reply_to_user_id": "2096517972731043840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096926292822327366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercydrugs1 我最害怕这种男生了😋😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096926284916125696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnHWJya8AAkuRg.jpg",
+        "width": 486
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096926284916125697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnHWJya8AEIfFE.jpg",
+        "width": 928
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096926284911906816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnHWJxakAAHLf3.jpg",
+        "width": 904
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096926284928667648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnHWJ1aUAAx7i3.jpg",
+        "width": 575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2096926292822327366",
+        "created_at": "2026-09-07T11:55:57.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096930470118490340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2096517972731043840",
+              "start": 0,
+              "username": "Mercydrugs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096930470118490340",
+        "in_reply_to_user_id": "2096517972731043840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096926292822327366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercydrugs1 我最害怕这种男生了😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096926284916125696",
+            "3_2096926284916125697",
+            "3_2096926284911906816",
+            "3_2096926284928667648"
+          ]
+        },
+        "author_id": "2096517972731043840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096926292822327366",
+        "created_at": "2026-09-07T11:39:21.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096926292822327366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/soZNZsiFa7",
+              "end": 178,
+              "expanded_url": "https://x.com/Mercydrugs1/status/2096926292822327366/photo/1",
+              "media_key": "3_2096926284916125696",
+              "start": 155,
+              "url": "https://t.co/soZNZsiFa7"
+            },
+            {
+              "display_url": "pic.x.com/soZNZsiFa7",
+              "end": 178,
+              "expanded_url": "https://x.com/Mercydrugs1/status/2096926292822327366/photo/1",
+              "media_key": "3_2096926284916125697",
+              "start": 155,
+              "url": "https://t.co/soZNZsiFa7"
+            },
+            {
+              "display_url": "pic.x.com/soZNZsiFa7",
+              "end": 178,
+              "expanded_url": "https://x.com/Mercydrugs1/status/2096926292822327366/photo/1",
+              "media_key": "3_2096926284911906816",
+              "start": 155,
+              "url": "https://t.co/soZNZsiFa7"
+            },
+            {
+              "display_url": "pic.x.com/soZNZsiFa7",
+              "end": 178,
+              "expanded_url": "https://x.com/Mercydrugs1/status/2096926292822327366/photo/1",
+              "media_key": "3_2096926284928667648",
+              "start": 155,
+              "url": "https://t.co/soZNZsiFa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096926292822327366",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096926284916125696"
+          },
+          {
+            "media_key": "3_2096926284916125697"
+          },
+          {
+            "media_key": "3_2096926284911906816"
+          },
+          {
+            "media_key": "3_2096926284928667648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找对象。\n\n要求年龄20+，精神状态和我一样癫，精神病必须严重到能排进中推前十，不要回避型依恋，不卡颜，只要不是太丑都能接受。p4本人鱿鱼照片。\n\n本人08.1今年18岁长发男，BD/严重BPD/极度严重DPDR，很温柔，会泛读养你。我只想要一段稳定的关系 我想要有人爱我 我想要一个焦虑型依恋，天天黏着我。 https://t.co/soZNZsiFa7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2096930470118490340",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 230,
+          "like_count": 422,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T08:37:37.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR.｜💊🔪🩸\n出PR及兴奋剂、各种致幻剂。",
+        "id": "2096517972731043840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096926292822327366",
+        "name": "Mercy",
+        "pinned_tweet_id": "2096926292822327366",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096517972731043840/1788683991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096518421286682624/bG2RCOs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 155,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "Mercydrugs1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2096646617000751425",
+    "created_at": "2026-09-07T19:53:56.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T20:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097050756176359543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2014716948857401344",
+          "start": 0,
+          "username": "taiqingxuanli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097050756176359543",
+    "in_reply_to_user_id": "2014716948857401344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096920201870856273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taiqingxuanli 感觉好蠢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 410,
+        "media_key": "3_2096920195516481536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnBztAaQAAGXGg.jpg",
+        "width": 462
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2096646617000751425",
+        "created_at": "2026-09-07T19:53:56.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T20:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097050756176359543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2014716948857401344",
+              "start": 0,
+              "username": "taiqingxuanli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097050756176359543",
+        "in_reply_to_user_id": "2014716948857401344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096920201870856273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taiqingxuanli 感觉好蠢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096920195516481536"
+          ]
+        },
+        "author_id": "2014716948857401344",
+        "conversation_id": "2096646617000751425",
+        "created_at": "2026-09-07T11:15:09.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096920201870856273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yY37Tpj2od",
+              "end": 54,
+              "expanded_url": "https://x.com/taiqingxuanli/status/2096920201870856273/photo/1",
+              "media_key": "3_2096920195516481536",
+              "start": 31,
+              "url": "https://t.co/yY37Tpj2od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096920201870856273",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096920195516481536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 839,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096646617000751425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 有这些药的钱还不如买糖吃成糖尿病 https://t.co/yY37Tpj2od"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2097050756176359543",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 232,
+          "like_count": 433,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 189
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-23T15:09:05.000Z",
+        "description": "",
+        "id": "2014716948857401344",
+        "is_identity_verified": false,
+        "location": "成华大道",
+        "most_recent_tweet_id": "2096922930844479894",
+        "name": "坐忘道幺鸡",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014717180198465536/q2zPIlio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 670,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "taiqingxuanli",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

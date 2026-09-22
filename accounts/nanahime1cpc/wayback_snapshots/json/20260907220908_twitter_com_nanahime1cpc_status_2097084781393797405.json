@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2097084781393797405",
+    "created_at": "2026-09-07T22:09:08.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T23:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097084781393797405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2094053659193782272",
+          "start": 3,
+          "username": "Jacewvak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097084781393797405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097065088687759799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jacewvak: 我又要被困在过去了，为什么是又？可能我无数次觉得自己走出来过吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2097084781393797405",
+        "created_at": "2026-09-07T22:09:08.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T23:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097084781393797405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2094053659193782272",
+              "start": 3,
+              "username": "Jacewvak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097084781393797405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097065088687759799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jacewvak: 我又要被困在过去了，为什么是又？可能我无数次觉得自己走出来过吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094053659193782272",
+        "conversation_id": "2097065088687759799",
+        "created_at": "2026-09-07T20:50:53.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T21:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097065088687759799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097065088687759799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我又要被困在过去了，为什么是又？可能我无数次觉得自己走出来过吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2097084781393797405",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 244,
+          "like_count": 476,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T13:26:30.000Z",
+        "description": "重焦/重抑/雙相，妈了个逼偏头痛怎么根治\nhttps://t.co/55N0KKu4FB请多多给我发，爱你们，用全力感受世界\nMBTI：INTX\n犹格死了@ominsci，这是 J，开始专心经营",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ominsci"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jace62880/pix",
+                "end": 44,
+                "expanded_url": "https://ngl.link/jace62880/pix",
+                "start": 21,
+                "url": "https://t.co/55N0KKu4FB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "earth.nullschool.net/#current/wind/…",
+                "end": 23,
+                "expanded_url": "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-283.19,6.61,151",
+                "start": 0,
+                "url": "https://t.co/RNIMxiNALA"
+              }
+            ]
+          }
+        },
+        "id": "2094053659193782272",
+        "is_identity_verified": false,
+        "location": "我家",
+        "most_recent_tweet_id": "2097084150289449401",
+        "name": "Jasce",
+        "pinned_tweet_id": "2094716861032411493",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094053659193782272/1788506483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094054371302760449/KHpGU6X-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 38,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/RNIMxiNALA",
+        "username": "Jacewvak",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

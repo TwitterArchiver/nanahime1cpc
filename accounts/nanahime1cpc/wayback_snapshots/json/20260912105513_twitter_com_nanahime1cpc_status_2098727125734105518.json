@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2098727125734105518",
+    "created_at": "2026-09-12T10:55:13.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T11:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098727125734105518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shishio_neko/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/shishio_neko/status/2098707187317030986",
+          "start": 12,
+          "url": "https://t.co/Usk5xkM5Hw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098727125734105518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098707187317030986",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "家产。。。最喜欢的一期 https://t.co/Usk5xkM5Hw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2098461796244062208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR874rPbAAAKXmv.jpg",
+        "width": 3547
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2098727125734105518",
+        "created_at": "2026-09-12T10:55:13.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098727125734105518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shishio_neko/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/shishio_neko/status/2098707187317030986",
+              "start": 12,
+              "url": "https://t.co/Usk5xkM5Hw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098727125734105518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098707187317030986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家产。。。最喜欢的一期 https://t.co/Usk5xkM5Hw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098461796244062208"
+          ]
+        },
+        "author_id": "1874865202136825856",
+        "conversation_id": "2098707187317030986",
+        "created_at": "2026-09-12T09:36:00.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098707187317030986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 3,
+              "tag": "BrawlStarsArt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJAkP0TuA1",
+              "end": 41,
+              "expanded_url": "https://x.com/shishio_neko/status/2098707187317030986/photo/1",
+              "media_key": "3_2098461796244062208",
+              "start": 18,
+              "url": "https://t.co/IJAkP0TuA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098707187317030986",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2098461796244062208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 2481,
+          "like_count": 249,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "💢💖 #BrawlStarsArt https://t.co/IJAkP0TuA1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2098727125734105518",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 300,
+          "like_count": 912,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 315
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-02T17:08:17.000Z",
+        "description": "FA描く✍️｜BrawlStars｜依頼受付停止中｜サブ垢@shishio_subneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "shishio_subneko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/pbjnbem9l4zfnl…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/pbjnbem9l4zfnlp?t=GOsaFC&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/3BVrNvaW9A"
+              }
+            ]
+          }
+        },
+        "id": "1874865202136825856",
+        "is_identity_verified": false,
+        "location": "リプちゃんと全部読んでますありがとう！",
+        "most_recent_tweet_id": "2098707187317030986",
+        "name": "ししお",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874865202136825856/1774374698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895792477006606336/SWTvSce1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8313,
+          "following_count": 471,
+          "like_count": 7416,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 1024
+        },
+        "url": "https://t.co/3BVrNvaW9A",
+        "username": "shishio_neko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2097114044758937817",
+    "created_at": "2026-09-08T00:20:45.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T01:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097117902382272560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092788164234821632",
+          "start": 0,
+          "username": "Yuki1161_IC26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097117902382272560",
+    "in_reply_to_user_id": "2092788164234821632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097114044758937817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161_IC26 1.0就认识了🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2097113982439927810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpyDljWMAIeGk-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2097113998475005952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpyEhSaEAAJ_gW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2097114013738082304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpyFaJaIAAFwGR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2097114031752364032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpyGdQWQAAVqU6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2097114044758937817",
+        "created_at": "2026-09-08T00:20:45.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097117902382272560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092788164234821632",
+              "start": 0,
+              "username": "Yuki1161_IC26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097117902382272560",
+        "in_reply_to_user_id": "2092788164234821632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097114044758937817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161_IC26 1.0就认识了🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097113982439927810",
+            "3_2097113998475005952",
+            "3_2097114013738082304",
+            "3_2097114031752364032"
+          ]
+        },
+        "author_id": "2092788164234821632",
+        "conversation_id": "2097114044758937817",
+        "created_at": "2026-09-08T00:05:25.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T01:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097114044758937817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M28sWLdC9J",
+              "end": 58,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2097114044758937817/photo/1",
+              "media_key": "3_2097113982439927810",
+              "start": 35,
+              "url": "https://t.co/M28sWLdC9J"
+            },
+            {
+              "display_url": "pic.x.com/M28sWLdC9J",
+              "end": 58,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2097114044758937817/photo/1",
+              "media_key": "3_2097113998475005952",
+              "start": 35,
+              "url": "https://t.co/M28sWLdC9J"
+            },
+            {
+              "display_url": "pic.x.com/M28sWLdC9J",
+              "end": 58,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2097114044758937817/photo/1",
+              "media_key": "3_2097114013738082304",
+              "start": 35,
+              "url": "https://t.co/M28sWLdC9J"
+            },
+            {
+              "display_url": "pic.x.com/M28sWLdC9J",
+              "end": 58,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2097114044758937817/photo/1",
+              "media_key": "3_2097114031752364032",
+              "start": 35,
+              "url": "https://t.co/M28sWLdC9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097114044758937817",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097113982439927810"
+          },
+          {
+            "media_key": "3_2097113998475005952"
+          },
+          {
+            "media_key": "3_2097114013738082304"
+          },
+          {
+            "media_key": "3_2097114031752364032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个月能炸4-5个号的你见过吗\n好舒服啊 各位是在哪个号认识我的呢😋 https://t.co/M28sWLdC9J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2097117902382272560",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 245,
+          "like_count": 505,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "🚪8.9/6.4 用于给习主席买包子吃/岐哥第六世\n一具白骨晒太阳 在某种药物铺满的地毯上\n早已逝去之人 早已宽恕之罪\n属于我的姐姐@Cecey33 ⁺共号\n直fo喜歡的人/喜欢🐱/逃生仓 @Yuki3Mepcpy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 66,
+                "username": "Cecey33"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Yuki3Mepcpy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki3mepcpy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki3mepcpy",
+                "start": 0,
+                "url": "https://t.co/d3QOTu2Gty"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2097116732653478385",
+        "name": "岐#心宿二",
+        "pinned_tweet_id": "2096973497364820238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096464883303010304/XZtwCCUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 318,
+          "like_count": 919,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/d3QOTu2Gty",
+        "username": "Yuki1161_IC26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

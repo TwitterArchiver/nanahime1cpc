@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2096585486299201790",
+    "created_at": "2026-09-06T13:05:07.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096585486299201790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/verjasmine_/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/verjasmine_/status/2096542335634956631",
+          "start": 5,
+          "url": "https://t.co/VlCVV9i5Xn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096585486299201790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096542335634956631",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爱乱乱！ https://t.co/VlCVV9i5Xn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2096585486299201790",
+        "created_at": "2026-09-06T13:05:07.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096585486299201790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/verjasmine_/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/verjasmine_/status/2096542335634956631",
+              "start": 5,
+              "url": "https://t.co/VlCVV9i5Xn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096585486299201790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096542335634956631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爱乱乱！ https://t.co/VlCVV9i5Xn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977274490951548930",
+        "conversation_id": "2096542335634956631",
+        "created_at": "2026-09-06T10:13:39.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096542335634956631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096542335634956631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1472,
+          "like_count": 49,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "人就是要靠疯狂爱上点什么来维持生命力"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的爱人@cryptochenrui｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "cryptochenrui"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2096585486299201790",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 193,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-12T07:26:04.000Z",
+        "description": "寻找爱 寻找美杜莎 这世上一定有一双眼睛 能让你 心甘情愿的把一生石化",
+        "id": "1977274490951548930",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096542335634956631",
+        "name": "睡不醒",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1977274490951548930/1785756747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084229626818342912/UeaUG8Gm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "verjasmine_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

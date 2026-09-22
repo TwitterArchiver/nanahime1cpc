@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096599622970146816"
+      ]
+    },
+    "author_id": "2094681707052212224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096603751494926396",
+    "created_at": "2026-09-06T14:17:42.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096603751494926396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445681460497694723",
+          "start": 0,
+          "username": "cryptochenrui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pfkTodl4B7",
+          "end": 65,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2096603751494926396/photo/1",
+          "media_key": "3_2096599622970146816",
+          "start": 42,
+          "url": "https://t.co/pfkTodl4B7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096603751494926396",
+    "in_reply_to_user_id": "1445681460497694723",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096599622970146816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@cryptochenrui 谁他妈想睡他自己联系吧哈哈我真的不行了🙄🙄🙄🙄🙄🙄🙄 https://t.co/pfkTodl4B7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1978,
+        "media_key": "3_2096599622970146816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRieP7NagAAeQTl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096599622970146816"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096603751494926396",
+        "created_at": "2026-09-06T14:17:42.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096603751494926396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445681460497694723",
+              "start": 0,
+              "username": "cryptochenrui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfkTodl4B7",
+              "end": 65,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2096603751494926396/photo/1",
+              "media_key": "3_2096599622970146816",
+              "start": 42,
+              "url": "https://t.co/pfkTodl4B7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096603751494926396",
+        "in_reply_to_user_id": "1445681460497694723",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096599622970146816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@cryptochenrui 谁他妈想睡他自己联系吧哈哈我真的不行了🙄🙄🙄🙄🙄🙄🙄 https://t.co/pfkTodl4B7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的爱人@cryptochenrui｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "cryptochenrui"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2096603751494926396",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 193,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-06T09:25:19.000Z",
+        "description": "INTJ的精神病和od频道.\n大学退学，农村穷蛆。雏见泽村民。\n长滨城主。豫章岛夷。\ncrypto寄生虫。煤桶骑士。\n欢迎温良边缘人。有同类内容直fo。\n🈲过激健全品客男女拳。",
+        "id": "1445681460497694723",
+        "is_identity_verified": false,
+        "location": "南昌",
+        "most_recent_tweet_id": "2096588140014444596",
+        "name": "ritsuka",
+        "pinned_tweet_id": "2096148398676271453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445681460497694723/1786330998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094585357438242817/U9Hs19LI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 345,
+          "like_count": 11479,
+          "listed_count": 5,
+          "media_count": 163,
+          "tweet_count": 3021
+        },
+        "url": "",
+        "username": "cryptochenrui",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

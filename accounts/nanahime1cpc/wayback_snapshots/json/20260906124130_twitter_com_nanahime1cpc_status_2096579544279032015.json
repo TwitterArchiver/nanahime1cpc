@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2096575283352805411",
+    "created_at": "2026-09-06T12:41:30.000Z",
+    "display_text_range": [
+      9,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096579544279032015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2095811617405693954",
+          "start": 0,
+          "username": "nfzxhzx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096579544279032015",
+    "in_reply_to_user_id": "2095811617405693954",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096578403721953532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nfzxhzx 沐雨是哪一方！不懂hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2096575283352805411",
+        "created_at": "2026-09-06T12:41:30.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096579544279032015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2095811617405693954",
+              "start": 0,
+              "username": "nfzxhzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096579544279032015",
+        "in_reply_to_user_id": "2095811617405693954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096578403721953532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nfzxhzx 沐雨是哪一方！不懂hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095811617405693954",
+        "conversation_id": "2096575283352805411",
+        "created_at": "2026-09-06T12:36:58.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096578403721953532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096578403721953532",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096575283352805411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 坚定站在沐雨这一方"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的爱人@cryptochenrui｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "cryptochenrui"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2096579544279032015",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 184,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-04T09:51:26.000Z",
+        "description": "死人 如果没死 那也快死了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/medsforushop",
+                "end": 23,
+                "expanded_url": "https://t.me/medsforushop",
+                "start": 0,
+                "url": "https://t.co/f9CEUVjkFQ"
+              }
+            ]
+          }
+        },
+        "id": "2095811617405693954",
+        "is_identity_verified": false,
+        "location": "魔法小猫国",
+        "most_recent_tweet_id": "2096578403721953532",
+        "name": "超级无敌魔法解离小猫",
+        "pinned_tweet_id": "2096312381408452626",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095811617405693954/1788520251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095815007821017088/bJmH_6u4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 59,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/f9CEUVjkFQ",
+        "username": "nfzxhzx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2097665146038653259",
+    "created_at": "2026-09-09T13:42:16.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T14:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097682001742737478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2095811617405693954",
+          "start": 0,
+          "username": "nfzxhzx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097682001742737478",
+    "in_reply_to_user_id": "2095811617405693954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097665146038653259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nfzxhzx ally是什么呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2097665146038653259",
+        "created_at": "2026-09-09T13:42:16.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097682001742737478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2095811617405693954",
+              "start": 0,
+              "username": "nfzxhzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097682001742737478",
+        "in_reply_to_user_id": "2095811617405693954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097665146038653259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nfzxhzx ally是什么呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095811617405693954",
+        "conversation_id": "2097665146038653259",
+        "created_at": "2026-09-09T12:35:18.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097665146038653259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097665146038653259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来看看ally和iso有什么区别"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2097682001742737478",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 289,
+          "like_count": 808,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 284
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-04T09:51:26.000Z",
+        "description": "😇魔法解离商店😇\n\n 出售解离剂、兴奋剂、致幻剂 、阿片以及RC（兴奋剂、阿片和、致幻剂和合成🍃素喵）来看看我吧🥺🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/medsforushop",
+                "end": 23,
+                "expanded_url": "https://t.me/medsforushop",
+                "start": 0,
+                "url": "https://t.co/f9CEUVjkFQ"
+              }
+            ]
+          }
+        },
+        "id": "2095811617405693954",
+        "is_identity_verified": false,
+        "location": "魔法小猫国",
+        "most_recent_tweet_id": "2097665146038653259",
+        "name": "超级无敌魔法解离小猫",
+        "pinned_tweet_id": "2096650499751874699",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095811617405693954/1788520251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095815007821017088/bJmH_6u4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 114,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/f9CEUVjkFQ",
+        "username": "nfzxhzx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

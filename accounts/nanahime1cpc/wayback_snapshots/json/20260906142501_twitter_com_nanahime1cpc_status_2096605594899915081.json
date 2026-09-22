@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2096605594899915081",
+    "created_at": "2026-09-06T14:25:01.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096605594899915081"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2096605594899915081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是选项 E ，我是 planB ，我是五排里的第六个人，是西装的备用纽扣，是被雨淋湿的小狗，是被海浪冲在沙滩上的小猫。我是枯萎的玫瑰，是港口吹过的风，是不被在意的真诚。我是过期的牛奶，是腐烂的橘子，是断线的风筝，是随意丢弃的向日葵，是沉默寡言的小朋友。我是墙角落灰的布偶熊，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2096605594899915081",
+        "created_at": "2026-09-06T14:25:01.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096605594899915081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096605594899915081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是选项 E ，我是 planB ，我是五排里的第六个人，是西装的备用纽扣，是被雨淋湿的小狗，是被海浪冲在沙滩上的小猫。我是枯萎的玫瑰，是港口吹过的风，是不被在意的真诚。我是过期的牛奶，是腐烂的橘子，是断线的风筝，是随意丢弃的向日葵，是沉默寡言的小朋友。我是墙角落灰的布偶熊，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的爱人@cryptochenrui｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "cryptochenrui"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2096605594899915081",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 193,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

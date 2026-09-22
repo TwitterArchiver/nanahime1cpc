@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095744798837870592"
+      ]
+    },
+    "author_id": "2094681707052212224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095744809025888708",
+    "created_at": "2026-09-04T05:24:34.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T06:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095744809025888708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P91wUBj9HW",
+          "end": 23,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2095744809025888708/photo/1",
+          "media_key": "3_2095744798837870592",
+          "start": 0,
+          "url": "https://t.co/P91wUBj9HW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095744809025888708",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2095744798837870592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/P91wUBj9HW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_2095744798837870592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWUynKakAAwW9-.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095744798837870592"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095744809025888708",
+        "created_at": "2026-09-04T05:24:34.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T06:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095744809025888708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P91wUBj9HW",
+              "end": 23,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2095744809025888708/photo/1",
+              "media_key": "3_2095744798837870592",
+              "start": 0,
+              "url": "https://t.co/P91wUBj9HW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095744809025888708",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2095744798837870592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/P91wUBj9HW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机@licar1949已寄｜od自伤｜一般路过同人女｜傻福精神病休学中｜直fo是喜欢泥💖｜\n我的爱人@cryptochenrui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "licar1949"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2095744809025888708",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2094967352819683399",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 115,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

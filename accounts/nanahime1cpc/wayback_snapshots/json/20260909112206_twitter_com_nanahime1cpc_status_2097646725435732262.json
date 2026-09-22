@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2097646725435732262",
+    "created_at": "2026-09-09T11:22:06.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097646725435732262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2094053659193782272",
+          "start": 3,
+          "username": "Jacewvak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097646725435732262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097646215265714323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jacewvak: 我的痛苦是π，不多不少但无穷无尽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2097646725435732262",
+        "created_at": "2026-09-09T11:22:06.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097646725435732262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2094053659193782272",
+              "start": 3,
+              "username": "Jacewvak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097646725435732262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097646215265714323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jacewvak: 我的痛苦是π，不多不少但无穷无尽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094053659193782272",
+        "conversation_id": "2097646215265714323",
+        "created_at": "2026-09-09T11:20:04.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097646215265714323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097646215265714323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的痛苦是π，不多不少但无穷无尽"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2097646725435732262",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 287,
+          "like_count": 751,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T13:26:30.000Z",
+        "description": "妈了个逼偏头痛怎么根治\n请多多给我发匿名，爱你们\n犹格死了@ominsci，这是 J",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 29,
+                "username": "ominsci"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jace62880/pix",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jace62880/pix",
+                "start": 0,
+                "url": "https://t.co/55N0KKu4FB"
+              }
+            ]
+          }
+        },
+        "id": "2094053659193782272",
+        "is_identity_verified": false,
+        "location": "我家",
+        "most_recent_tweet_id": "2097646215265714323",
+        "name": "𝓤𝓷𝓴-𝕵𝖆𝖘𝖈𝖊",
+        "pinned_tweet_id": "2097423684604760159",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094053659193782272/1788506483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094054371302760449/KHpGU6X-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 40,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 833
+        },
+        "url": "https://t.co/55N0KKu4FB",
+        "username": "Jacewvak",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

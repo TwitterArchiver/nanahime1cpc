@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2096638236059918358",
+    "created_at": "2026-09-06T16:34:43.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096638236059918358"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "自伤"
+        },
+        {
+          "end": 55,
+          "start": 46,
+          "tag": "overdose"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2092788164234821632",
+          "start": 3,
+          "username": "Yuki1161_IC26"
+        }
+      ],
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/yuki3mepcpy",
+          "end": 126,
+          "expanded_url": "https://ngl.link/yuki3mepcpy",
+          "images": [
+            {
+              "height": 785,
+              "url": "https://pbs.twimg.com/news_img/2096634074211258371/yeMFU7nP?format=jpg&name=orig",
+              "width": 1500
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2096634074211258371/yeMFU7nP?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 103,
+          "status": 200,
+          "title": "@Yuki3Mepcpy: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/yuki3mepcpy",
+          "url": "https://t.co/PPjGXFyJBc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096638236059918358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096634065289871445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki1161_IC26: 重新自介一下 岐哥六世 串子人格致歉\n本机无 ＃自伤 ＃overdose  等负能量内容\n\n可以通过以下两条链接和我以及小策玩 欢迎友善交流 我会尽我所能解答部分问题\nhttps://t.co/PPjGXFyJBc岐运营\nhttps://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2096633983136088066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi9f8zWwAIT1Ra.jpg",
+        "width": 2400
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2096634001054224387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi9g_jX0AMSReC.jpg",
+        "width": 2560
+      },
+      {
+        "height": 3528,
+        "media_key": "3_2096634019865874432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi9iFoa0AA5BIr.jpg",
+        "width": 3528
+      },
+      {
+        "height": 3528,
+        "media_key": "3_2096634040161837058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi9jRPWoAIGTva.jpg",
+        "width": 3528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2096638236059918358",
+        "created_at": "2026-09-06T16:34:43.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096638236059918358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "自伤"
+            },
+            {
+              "end": 55,
+              "start": 46,
+              "tag": "overdose"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2092788164234821632",
+              "start": 3,
+              "username": "Yuki1161_IC26"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/yuki3mepcpy",
+              "end": 126,
+              "expanded_url": "https://ngl.link/yuki3mepcpy",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2096634074211258371/yeMFU7nP?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2096634074211258371/yeMFU7nP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 103,
+              "status": 200,
+              "title": "@Yuki3Mepcpy: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/yuki3mepcpy",
+              "url": "https://t.co/PPjGXFyJBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096638236059918358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096634065289871445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki1161_IC26: 重新自介一下 岐哥六世 串子人格致歉\n本机无 ＃自伤 ＃overdose  等负能量内容\n\n可以通过以下两条链接和我以及小策玩 欢迎友善交流 我会尽我所能解答部分问题\nhttps://t.co/PPjGXFyJBc岐运营\nhttps://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096633983136088066",
+            "3_2096634001054224387",
+            "3_2096634019865874432",
+            "3_2096634040161837058"
+          ]
+        },
+        "author_id": "2092788164234821632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096634065289871445",
+        "created_at": "2026-09-06T16:18:09.000Z",
+        "display_text_range": [
+          0,
+          180
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096634065289871445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "自伤"
+            },
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "overdose"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 168,
+              "id": "1492068366731059203",
+              "start": 156,
+              "username": "Yuki3Mepcpy"
+            }
+          ],
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/yuki3mepcpy",
+              "end": 107,
+              "expanded_url": "https://ngl.link/yuki3mepcpy",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2096634074211258371/yeMFU7nP?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2096634074211258371/yeMFU7nP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 84,
+              "status": 200,
+              "title": "@Yuki3Mepcpy: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/yuki3mepcpy",
+              "url": "https://t.co/PPjGXFyJBc"
+            },
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/yuki1161_ic26",
+              "end": 134,
+              "expanded_url": "https://ngl.link/yuki1161_ic26",
+              "images": [
+                {
+                  "height": 785,
+                  "url": "https://pbs.twimg.com/news_img/2095055623314448386/CCc5IqBk?format=jpg&name=orig",
+                  "width": 1500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095055623314448386/CCc5IqBk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 111,
+              "status": 200,
+              "title": "@Yuki1161_IC26: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/yuki1161_ic26",
+              "url": "https://t.co/26v2jENwSQ"
+            },
+            {
+              "display_url": "pic.x.com/2MaK0bj8Li",
+              "end": 204,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2096634065289871445/photo/1",
+              "media_key": "3_2096633983136088066",
+              "start": 181,
+              "url": "https://t.co/2MaK0bj8Li"
+            },
+            {
+              "display_url": "pic.x.com/2MaK0bj8Li",
+              "end": 204,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2096634065289871445/photo/1",
+              "media_key": "3_2096634001054224387",
+              "start": 181,
+              "url": "https://t.co/2MaK0bj8Li"
+            },
+            {
+              "display_url": "pic.x.com/2MaK0bj8Li",
+              "end": 204,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2096634065289871445/photo/1",
+              "media_key": "3_2096634019865874432",
+              "start": 181,
+              "url": "https://t.co/2MaK0bj8Li"
+            },
+            {
+              "display_url": "pic.x.com/2MaK0bj8Li",
+              "end": 204,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2096634065289871445/photo/1",
+              "media_key": "3_2096634040161837058",
+              "start": 181,
+              "url": "https://t.co/2MaK0bj8Li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096634065289871445",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096633983136088066"
+          },
+          {
+            "media_key": "3_2096634001054224387"
+          },
+          {
+            "media_key": "3_2096634019865874432"
+          },
+          {
+            "media_key": "3_2096634040161837058"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "重新自介一下 岐哥六世 串子人格致歉\n本机无 ＃自伤 ＃overdose  等负能量内容\n\n可以通过以下两条链接和我以及小策玩 欢迎友善交流 我会尽我所能解答部分问题\nhttps://t.co/PPjGXFyJBc岐运营\nhttps://t.co/26v2jENwSQ 策运营\n精神活性物质使用报告会不定期发至\n@Yuki3Mepcpy 感兴趣的朋友可以去看看 https://t.co/2MaK0bj8Li"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2096638236059918358",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 197,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "🚪8.9/6.4 用于给习主席买包子吃/岐哥第六世\n\n早已逝去之人 早已宽恕之罪——特雷西娅\n属于我的姐姐@Cecey33 ⁺共号\n直fo喜歡的人/喜欢🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "Cecey33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki3mepcpy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki3mepcpy",
+                "start": 0,
+                "url": "https://t.co/d3QOTu2Gty"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2096635780844151015",
+        "name": "岐#心宿二",
+        "pinned_tweet_id": "2096634065289871445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096464883303010304/XZtwCCUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 275,
+          "like_count": 719,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/d3QOTu2Gty",
+        "username": "Yuki1161_IC26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

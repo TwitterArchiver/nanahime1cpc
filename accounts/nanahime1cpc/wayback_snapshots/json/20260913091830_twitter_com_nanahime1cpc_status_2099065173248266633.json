@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099052458320474112"
+      ],
+      "media_source_tweet_id": [
+        "2099052467740930450"
+      ]
+    },
+    "author_id": "2094681707052212224",
+    "conversation_id": "2099065173248266633",
+    "created_at": "2026-09-13T09:18:30.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T10:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099065173248266633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1949074397165445120",
+          "start": 3,
+          "username": "woshiaoo200"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vaEKtLt1pu",
+          "end": 47,
+          "expanded_url": "https://x.com/woshiaoo200/status/2099052467740930450/photo/1",
+          "media_key": "3_2099052458320474112",
+          "start": 24,
+          "url": "https://t.co/vaEKtLt1pu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099065173248266633",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099052458320474112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099052467740930450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @woshiaoo200: 卧槽笑死我了 https://t.co/vaEKtLt1pu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2753,
+        "media_key": "3_2099052458320474112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFVFu8aMAAO7Px.jpg",
+        "width": 1381
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099052458320474112"
+          ],
+          "media_source_tweet_id": [
+            "2099052467740930450"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "conversation_id": "2099065173248266633",
+        "created_at": "2026-09-13T09:18:30.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T10:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099065173248266633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1949074397165445120",
+              "start": 3,
+              "username": "woshiaoo200"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vaEKtLt1pu",
+              "end": 47,
+              "expanded_url": "https://x.com/woshiaoo200/status/2099052467740930450/photo/1",
+              "media_key": "3_2099052458320474112",
+              "start": 24,
+              "url": "https://t.co/vaEKtLt1pu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099065173248266633",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099052458320474112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099052467740930450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @woshiaoo200: 卧槽笑死我了 https://t.co/vaEKtLt1pu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099052458320474112"
+          ]
+        },
+        "author_id": "1949074397165445120",
+        "conversation_id": "2099052467740930450",
+        "created_at": "2026-09-13T08:28:01.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099052467740930450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vaEKtLt1pu",
+              "end": 30,
+              "expanded_url": "https://x.com/woshiaoo200/status/2099052467740930450/photo/1",
+              "media_key": "3_2099052458320474112",
+              "start": 7,
+              "url": "https://t.co/vaEKtLt1pu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099052467740930450",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099052458320474112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽笑死我了 https://t.co/vaEKtLt1pu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2099065173248266633",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 302,
+          "like_count": 989,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-26T11:48:54.000Z",
+        "description": "上帝说“要有光”，经中国共产党中华人民共和国国家宗教事务局批准，于是便有了光\n \n匿名提问 https://t.co/CBi8jhhhuG 快来问我 ask me questions anonymously",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshiaoo200",
+                "end": 69,
+                "expanded_url": "http://ngl.link/woshiaoo200",
+                "start": 46,
+                "url": "https://t.co/CBi8jhhhuG"
+              }
+            ]
+          }
+        },
+        "id": "1949074397165445120",
+        "is_identity_verified": false,
+        "location": "西安",
+        "most_recent_tweet_id": "2099052467740930450",
+        "name": "我心总是泪绒绒",
+        "pinned_tweet_id": "2084169912642048501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949074397165445120/1788280407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084283209513148418/EoxLNdOs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3941,
+          "following_count": 28,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "woshiaoo200",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

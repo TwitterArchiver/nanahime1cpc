@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2096903419118461340",
+    "created_at": "2026-09-07T10:22:02.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096906835760677240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032698951888154627",
+          "start": 0,
+          "username": "wjdjznss96314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096906835760677240",
+    "in_reply_to_user_id": "2032698951888154627",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096904303701365032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wjdjznss96314 女同牛逼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2096903419118461340",
+        "created_at": "2026-09-07T10:22:02.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096906835760677240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032698951888154627",
+              "start": 0,
+              "username": "wjdjznss96314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096906835760677240",
+        "in_reply_to_user_id": "2032698951888154627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096904303701365032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjdjznss96314 女同牛逼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032698951888154627",
+        "conversation_id": "2096903419118461340",
+        "created_at": "2026-09-07T10:11:59.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096904303701365032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096904303701365032",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096903419118461340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 女同牛逼。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2096906835760677240",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 226,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-14T06:03:09.000Z",
+        "description": "想要淡淡的幸福生活\n08/♈️/infj/顺女心理女/泛性恋\n非健全 社恐 线下查无此人\n只是一个普通的老百姓，无政治立场\nPOME匿名提问箱：https://t.co/aDmoURGdeb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pome.vip/0b8b36e3",
+                "end": 95,
+                "expanded_url": "https://www.pome.vip/0b8b36e3",
+                "start": 72,
+                "url": "https://t.co/aDmoURGdeb"
+              }
+            ]
+          }
+        },
+        "id": "2032698951888154627",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096904303701365032",
+        "name": "Ðry5tream",
+        "pinned_tweet_id": "2096880095978049740",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032698951888154627/1776008498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043353683019345920/Y_9hTXIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 264,
+          "like_count": 2762,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "wjdjznss96314",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

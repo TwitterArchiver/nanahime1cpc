@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2096533971475849217",
+    "created_at": "2026-09-06T09:40:25.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096533971475849217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kurokisama_TvT…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/kurokisama_TvT/status/2096252308900487201",
+          "start": 3,
+          "url": "https://t.co/VW7Ot0oyBn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096533971475849217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096252308900487201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如题 https://t.co/VW7Ot0oyBn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2096251889570742272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdh_LWbAAA-EZS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2408,
+        "media_key": "3_2096251889532948480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRdh_LNaUAAkSXp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2096533971475849217",
+        "created_at": "2026-09-06T09:40:25.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096533971475849217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kurokisama_TvT…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/kurokisama_TvT/status/2096252308900487201",
+              "start": 3,
+              "url": "https://t.co/VW7Ot0oyBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096533971475849217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096252308900487201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如题 https://t.co/VW7Ot0oyBn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096251889570742272",
+            "3_2096251889532948480"
+          ]
+        },
+        "author_id": "1933855083634286592",
+        "conversation_id": "2096252308900487201",
+        "created_at": "2026-09-05T15:01:11.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096252308900487201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2094681707052212224",
+              "start": 8,
+              "username": "nanahime1cpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FnlWGSbNJL",
+              "end": 153,
+              "expanded_url": "https://x.com/kurokisama_TvT/status/2096252308900487201/photo/1",
+              "media_key": "3_2096251889570742272",
+              "start": 130,
+              "url": "https://t.co/FnlWGSbNJL"
+            },
+            {
+              "display_url": "pic.x.com/FnlWGSbNJL",
+              "end": 153,
+              "expanded_url": "https://x.com/kurokisama_TvT/status/2096252308900487201/photo/1",
+              "media_key": "3_2096251889532948480",
+              "start": 130,
+              "url": "https://t.co/FnlWGSbNJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096252308900487201",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096251889570742272"
+          },
+          {
+            "media_key": "3_2096251889532948480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1986,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是菜菜@nanahime1cpc，我的推特现在被暂时封禁，我正在使用黑木的账号。首先，我与黑木精神仍旧处于错乱状态，我们没有责怪任何人，我现在已经联系上叶经理，他也没有责怪我们的意思，请路人不要再开团他或者开团我们，谢谢大家，我们正在携手共渡难关。 https://t.co/FnlWGSbNJL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的爱人@cryptochenrui｜我的挚友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "cryptochenrui"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2096533971475849217",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2094967352819683399",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 168,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-14T11:52:45.000Z",
+        "description": "💊🔪🩸\n前世\n@kuroki___tomoko\n @nanahime1cpc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 7,
+                "username": "kuroki___tomoko"
+              },
+              {
+                "end": 38,
+                "start": 25,
+                "username": "nanahime1cpc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/VwLQTEXSp3"
+              }
+            ]
+          }
+        },
+        "id": "1933855083634286592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096318266427970014",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2095266325837041997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933855083634286592/1787231913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095266495253344256/FpcU34yk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 526,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/VwLQTEXSp3",
+        "username": "kurokisama_TvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

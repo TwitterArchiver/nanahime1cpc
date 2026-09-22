@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2097371953174921436",
+    "created_at": "2026-09-08T17:12:13.000Z",
+    "display_text_range": [
+      11,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097372446311747963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2091517079644147712",
+          "start": 0,
+          "username": "x_xChieri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097372446311747963",
+    "in_reply_to_user_id": "2091517079644147712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097372233262121367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_xChieri 老婆你好宠我🥺🥺🥺🥺💖💖💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2097371953174921436",
+        "created_at": "2026-09-08T17:12:13.000Z",
+        "display_text_range": [
+          11,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097372446311747963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2091517079644147712",
+              "start": 0,
+              "username": "x_xChieri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097372446311747963",
+        "in_reply_to_user_id": "2091517079644147712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097372233262121367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_xChieri 老婆你好宠我🥺🥺🥺🥺💖💖💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091517079644147712",
+        "conversation_id": "2097371953174921436",
+        "created_at": "2026-09-08T17:11:22.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097372233262121367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097372233262121367",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097371953174921436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 好口耐呀…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2097372446311747963",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 276,
+          "like_count": 671,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-23T13:27:28.000Z",
+        "description": "10/双相/顺女/割o烟酒不良嗜好一体机/友LGBT一切/查成分回fo/同类想和我玩直接私信戳我/静候属于我的地雷男老公/戒烟戒割中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chieri19266",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chieri19266",
+                "start": 0,
+                "url": "https://t.co/ElsqeAwyzc"
+              }
+            ]
+          }
+        },
+        "id": "2091517079644147712",
+        "is_identity_verified": false,
+        "location": "🚪52/88/125纯半绿不线下",
+        "most_recent_tweet_id": "2097372233262121367",
+        "name": "チェリーちゃん🖤4.0",
+        "pinned_tweet_id": "2092281835846074368",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091517079644147712/1787674460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091517841015242752/kG0wUGWt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 76,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/ElsqeAwyzc",
+        "username": "x_xChieri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

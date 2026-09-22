@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2097533747725992431",
+    "created_at": "2026-09-09T03:53:10.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T04:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097533747725992431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxtltm/status/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/xxtltm/status/2071306601365979524",
+          "start": 13,
+          "url": "https://t.co/tobq69O0XQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097533747725992431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071306601365979524",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦哦哦哦哦哦哦好喜欢这期 https://t.co/tobq69O0XQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071306597960212480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL7CYGhXYAApz2A.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2097533747725992431",
+        "created_at": "2026-09-09T03:53:10.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T04:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097533747725992431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxtltm/status/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/xxtltm/status/2071306601365979524",
+              "start": 13,
+              "url": "https://t.co/tobq69O0XQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097533747725992431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071306601365979524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦哦哦哦哦哦哦好喜欢这期 https://t.co/tobq69O0XQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071306597960212480"
+          ]
+        },
+        "author_id": "1657096727269105868",
+        "conversation_id": "2071306601365979524",
+        "created_at": "2026-06-28T18:55:51.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071306601365979524"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "starrnova"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VGOMErZVs",
+              "end": 34,
+              "expanded_url": "https://x.com/xxtltm/status/2071306601365979524/photo/1",
+              "media_key": "3_2071306597960212480",
+              "start": 11,
+              "url": "https://t.co/8VGOMErZVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071306601365979524",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2071306597960212480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 199,
+          "impression_count": 18588,
+          "like_count": 2406,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 310
+        },
+        "reply_settings": "following",
+        "text": "#starrnova https://t.co/8VGOMErZVs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2097533747725992431",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 277,
+          "like_count": 721,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 247
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-12T18:53:56.000Z",
+        "description": "— 17 + ( - 17 BLOCKED )",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xxtltm.straw.page",
+                "end": 23,
+                "expanded_url": "https://xxtltm.straw.page",
+                "start": 0,
+                "url": "https://t.co/TmJqicvfUc"
+              }
+            ]
+          }
+        },
+        "id": "1657096727269105868",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089158062972006532",
+        "name": "920200",
+        "pinned_tweet_id": "2058831105495605747",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657096727269105868/1778914519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076449035439816704/lb3pr7dr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 31,
+          "like_count": 1047,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/TmJqicvfUc",
+        "username": "xxtltm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

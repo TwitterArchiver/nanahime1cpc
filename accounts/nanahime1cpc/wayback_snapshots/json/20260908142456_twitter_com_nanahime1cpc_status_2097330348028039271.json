@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097330187973369856"
+      ]
+    },
+    "author_id": "2094681707052212224",
+    "conversation_id": "2097330348028039271",
+    "created_at": "2026-09-08T14:24:56.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T15:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097330348028039271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uDpWLxqDhh",
+          "end": 76,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2097330348028039271/photo/1",
+          "media_key": "3_2097330187973369856",
+          "start": 53,
+          "url": "https://t.co/uDpWLxqDhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097330348028039271",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097330187973369856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢这位推友的8.88，谢谢谢谢！\n\n其他的推友的画，我也正在绘制，请大家稍等呀🥹🥹🥹💖我在努力复健！！ https://t.co/uDpWLxqDhh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2097330187973369856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRs2sZ7bIAAPxVb.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097330187973369856"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "conversation_id": "2097330348028039271",
+        "created_at": "2026-09-08T14:24:56.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097330348028039271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDpWLxqDhh",
+              "end": 76,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2097330348028039271/photo/1",
+              "media_key": "3_2097330187973369856",
+              "start": 53,
+              "url": "https://t.co/uDpWLxqDhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097330348028039271",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097330187973369856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢这位推友的8.88，谢谢谢谢！\n\n其他的推友的画，我也正在绘制，请大家稍等呀🥹🥹🥹💖我在努力复健！！ https://t.co/uDpWLxqDhh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2097330348028039271",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 271,
+          "like_count": 644,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

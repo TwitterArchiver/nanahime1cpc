@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2100467021649764611",
+    "created_at": "2026-09-18T04:53:08.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T05:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100810331539022059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874363816516927490",
+          "start": 0,
+          "username": "wzxssx83194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100810331539022059",
+    "in_reply_to_user_id": "1874363816516927490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100467021649764611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzxssx83194 先给我吃先给我吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_2100466919380017152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZbiNAa4AAUchn.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2100466932197838848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZbi8wbUAAkOeO.jpg",
+        "width": 2133
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2100466942830329856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZbjkXaQAAKO1K.jpg",
+        "width": 2133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2100467021649764611",
+        "created_at": "2026-09-18T04:53:08.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100810331539022059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874363816516927490",
+              "start": 0,
+              "username": "wzxssx83194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100810331539022059",
+        "in_reply_to_user_id": "1874363816516927490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100467021649764611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzxssx83194 先给我吃先给我吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100466919380017152",
+            "3_2100466932197838848",
+            "3_2100466942830329856"
+          ]
+        },
+        "author_id": "1874363816516927490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100467021649764611",
+        "created_at": "2026-09-17T06:08:57.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100467021649764611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wO8KCXOHnM",
+              "end": 37,
+              "expanded_url": "https://x.com/wzxssx83194/status/2100467021649764611/photo/1",
+              "media_key": "3_2100466919380017152",
+              "start": 14,
+              "url": "https://t.co/wO8KCXOHnM"
+            },
+            {
+              "display_url": "pic.x.com/wO8KCXOHnM",
+              "end": 37,
+              "expanded_url": "https://x.com/wzxssx83194/status/2100467021649764611/photo/1",
+              "media_key": "3_2100466932197838848",
+              "start": 14,
+              "url": "https://t.co/wO8KCXOHnM"
+            },
+            {
+              "display_url": "pic.x.com/wO8KCXOHnM",
+              "end": 37,
+              "expanded_url": "https://x.com/wzxssx83194/status/2100467021649764611/photo/1",
+              "media_key": "3_2100466942830329856",
+              "start": 14,
+              "url": "https://t.co/wO8KCXOHnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100467021649764611",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100466919380017152"
+          },
+          {
+            "media_key": "3_2100466932197838848"
+          },
+          {
+            "media_key": "3_2100466942830329856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16297,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 171,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "谁敢吃我做的菜我就榨干谁🥹 https://t.co/wO8KCXOHnM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2100810331539022059",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 324,
+          "like_count": 1193,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 370
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T07:55:43.000Z",
+        "description": "当你读完这句话的时候你就被我侵犯了",
+        "id": "1874363816516927490",
+        "is_identity_verified": false,
+        "location": "🚪52",
+        "most_recent_tweet_id": "2100469469994991683",
+        "name": "無冥x",
+        "pinned_tweet_id": "2100469469994991683",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874363816516927490/1789376988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874364034696253440/OannmQWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 112,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "wzxssx83194",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

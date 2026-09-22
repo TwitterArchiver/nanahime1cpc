@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097366121313968132"
+      ]
+    },
+    "author_id": "2094681707052212224",
+    "conversation_id": "2097371953174921436",
+    "created_at": "2026-09-08T17:10:15.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097371953174921436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/03h1gr4ody",
+          "end": 46,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2097371953174921436/video/1",
+          "media_key": "13_2097366121313968132",
+          "start": 23,
+          "url": "https://t.co/03h1gr4ody"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097371953174921436",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2097366121313968132"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只是在抹身体乳🥺✋🏻这个抹完很好摸。。。。。 https://t.co/03h1gr4ody"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31066,
+        "height": 1920,
+        "media_key": "13_2097366121313968132",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097366121313968132/img/VxxONThoRLnCUnQH.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097366121313968132/vid/avc1/320x568/AX5f48YxnFSC4Cuu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097366121313968132/vid/avc1/480x852/qu2I08AdkakMY6FP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097366121313968132/vid/avc1/720x1280/xkU0E_NecTn2BpcC.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097366121313968132/pl/JeIhcs1Aohfrxp7m.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097366121313968132"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "conversation_id": "2097371953174921436",
+        "created_at": "2026-09-08T17:10:15.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097371953174921436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/03h1gr4ody",
+              "end": 46,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2097371953174921436/video/1",
+              "media_key": "13_2097366121313968132",
+              "start": 23,
+              "url": "https://t.co/03h1gr4ody"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097371953174921436",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097366121313968132"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只是在抹身体乳🥺✋🏻这个抹完很好摸。。。。。 https://t.co/03h1gr4ody"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2097371953174921436",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1788313995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 276,
+          "like_count": 670,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
