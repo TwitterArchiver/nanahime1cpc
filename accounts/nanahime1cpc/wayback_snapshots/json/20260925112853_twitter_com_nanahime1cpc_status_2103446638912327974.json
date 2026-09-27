@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103446610852352000",
+        "3_2103446610885931008",
+        "3_2103446611456352256"
+      ]
+    },
+    "author_id": "2094681707052212224",
+    "conversation_id": "2103446638912327974",
+    "created_at": "2026-09-25T11:28:53.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T12:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103446638912327974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZXzovidNRO",
+          "end": 36,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2103446638912327974/photo/1",
+          "media_key": "3_2103446610852352000",
+          "start": 13,
+          "url": "https://t.co/ZXzovidNRO"
+        },
+        {
+          "display_url": "pic.x.com/ZXzovidNRO",
+          "end": 36,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2103446638912327974/photo/1",
+          "media_key": "3_2103446610885931008",
+          "start": 13,
+          "url": "https://t.co/ZXzovidNRO"
+        },
+        {
+          "display_url": "pic.x.com/ZXzovidNRO",
+          "end": 36,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2103446638912327974/photo/1",
+          "media_key": "3_2103446611456352256",
+          "start": 13,
+          "url": "https://t.co/ZXzovidNRO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103446638912327974",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103446610852352000"
+      },
+      {
+        "media_key": "3_2103446610885931008"
+      },
+      {
+        "media_key": "3_2103446611456352256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给我的主治医生和病友画的 https://t.co/ZXzovidNRO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1884,
+        "media_key": "3_2103446610852352000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDxjEvakAAv0AJ.jpg",
+        "width": 1868
+      },
+      {
+        "height": 3396,
+        "media_key": "3_2103446610885931008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDxjE3a8AAgC8U.jpg",
+        "width": 2612
+      },
+      {
+        "height": 1952,
+        "media_key": "3_2103446611456352256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDxjG_a4AA1ri_.jpg",
+        "width": 1832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103446610852352000",
+            "3_2103446610885931008",
+            "3_2103446611456352256"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "conversation_id": "2103446638912327974",
+        "created_at": "2026-09-25T11:28:53.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103446638912327974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXzovidNRO",
+              "end": 36,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2103446638912327974/photo/1",
+              "media_key": "3_2103446610852352000",
+              "start": 13,
+              "url": "https://t.co/ZXzovidNRO"
+            },
+            {
+              "display_url": "pic.x.com/ZXzovidNRO",
+              "end": 36,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2103446638912327974/photo/1",
+              "media_key": "3_2103446610885931008",
+              "start": 13,
+              "url": "https://t.co/ZXzovidNRO"
+            },
+            {
+              "display_url": "pic.x.com/ZXzovidNRO",
+              "end": 36,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2103446638912327974/photo/1",
+              "media_key": "3_2103446611456352256",
+              "start": 13,
+              "url": "https://t.co/ZXzovidNRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103446638912327974",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103446610852352000"
+          },
+          {
+            "media_key": "3_2103446610885931008"
+          },
+          {
+            "media_key": "3_2103446611456352256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我的主治医生和病友画的 https://t.co/ZXzovidNRO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2103446638912327974",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 364,
+          "like_count": 1576,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 529
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

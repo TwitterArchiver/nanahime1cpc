@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2103003243911827764",
+    "created_at": "2026-09-24T06:06:59.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T07:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103003243911827764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2092788164234821632",
+          "start": 3,
+          "username": "Yuki1161_IC26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103003243911827764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102995196250100161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki1161_IC26: 大夫我好難受啊給我整點那個普瑞巴林來"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2103003243911827764",
+        "created_at": "2026-09-24T06:06:59.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103003243911827764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2092788164234821632",
+              "start": 3,
+              "username": "Yuki1161_IC26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103003243911827764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102995196250100161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki1161_IC26: 大夫我好難受啊給我整點那個普瑞巴林來"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092788164234821632",
+        "conversation_id": "2102995196250100161",
+        "created_at": "2026-09-24T05:35:01.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T06:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102995196250100161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_QianQian_8964…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/_QianQian_8964_/status/2102986973208318360",
+              "start": 19,
+              "url": "https://t.co/oGY9Ou3bw2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102995196250100161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102986973208318360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大夫我好難受啊給我整點那個普瑞巴林來 https://t.co/oGY9Ou3bw2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2103003243911827764",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 344,
+          "like_count": 1434,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "🚪8.9/6.4 用于买包子吃/6.0\n早已逝去之人 早已宽恕之罪\n和属于我的姐姐@Cecey33 共号\n直fo就是喜歡你/🐱💊🩸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "Cecey33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki3mepcpy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki3mepcpy",
+                "start": 0,
+                "url": "https://t.co/d3QOTu2Gty"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2102995196250100161",
+        "name": "岐#心宿二",
+        "pinned_tweet_id": "2102859048253063372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1790192746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096464883303010304/XZtwCCUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 332,
+          "like_count": 1306,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/d3QOTu2Gty",
+        "username": "Yuki1161_IC26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

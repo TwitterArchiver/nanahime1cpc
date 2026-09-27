@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2099653843936235794",
+    "created_at": "2026-09-15T00:17:40.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T01:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099653843936235794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2059149411007991808",
+          "start": 3,
+          "username": "wndsfefoumxlw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099653843936235794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099520968368746873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wndsfefoumxlw6: 人的第一次哭是为了呼吸，从此以后的每一次哭都是为了继续呼吸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2099653843936235794",
+        "created_at": "2026-09-15T00:17:40.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T01:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099653843936235794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2059149411007991808",
+              "start": 3,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099653843936235794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099520968368746873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wndsfefoumxlw6: 人的第一次哭是为了呼吸，从此以后的每一次哭都是为了继续呼吸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059149411007991808",
+        "conversation_id": "2099520968368746873",
+        "created_at": "2026-09-14T15:29:40.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099520968368746873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099520968368746873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 763,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "人的第一次哭是为了呼吸，从此以后的每一次哭都是为了继续呼吸"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2099653843936235794",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 308,
+          "like_count": 1149,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 361
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 42,
+                "start": 27,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 58,
+                "start": 43,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 125,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 102,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099535094360985677",
+        "name": "洛",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 345,
+          "like_count": 8237,
+          "listed_count": 5,
+          "media_count": 475,
+          "tweet_count": 3709
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

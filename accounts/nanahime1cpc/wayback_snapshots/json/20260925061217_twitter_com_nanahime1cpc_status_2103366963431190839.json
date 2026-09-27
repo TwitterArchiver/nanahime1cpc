@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2103366963431190839",
+    "created_at": "2026-09-25T06:12:17.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T07:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103366963431190839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zifensix/statu…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/zifensix/status/2103347278006337683",
+          "start": 77,
+          "url": "https://t.co/xoG8j5O0YD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103366963431190839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103347278006337683",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是唐毓文 \n我真的要急哭了 \n我号被封了6天 但大家知道我特别依赖推特社交的 不然就会很难受 \n我可以征用菜菜的号嘛.. \n会不会被骂成筛子..... https://t.co/xoG8j5O0YD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2103366963431190839",
+        "created_at": "2026-09-25T06:12:17.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T07:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103366963431190839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zifensix/statu…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/zifensix/status/2103347278006337683",
+              "start": 77,
+              "url": "https://t.co/xoG8j5O0YD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103366963431190839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103347278006337683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是唐毓文 \n我真的要急哭了 \n我号被封了6天 但大家知道我特别依赖推特社交的 不然就会很难受 \n我可以征用菜菜的号嘛.. \n会不会被骂成筛子..... https://t.co/xoG8j5O0YD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822109599459397632",
+        "conversation_id": "2103347278006337683",
+        "created_at": "2026-09-25T04:54:04.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:54:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103347278006337683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuki1161_ic26/…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/yuki1161_ic26/status/2103343761002488053",
+              "start": 77,
+              "url": "https://t.co/ITYA45tHQP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103347278006337683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103343761002488053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是唐毓文 \n我真的要急哭了 \n我号被封了6天 但大家知道我特别依赖推特社交的 不然就会很难受 \n我可以征用自分的号嘛.. \n会不会被骂成筛子..... https://t.co/ITYA45tHQP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2103366963431190839",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 362,
+          "like_count": 1566,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 519
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T03:16:10.000Z",
+        "description": "友所有人😎\n会查成分回fo同类😤\n09年 17岁 男的\n废话条/药物报告/轻微键政/还有发布一些日常🤓🤓🤓\n小号 @zifeneight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "zifeneight"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zifenod1",
+                "end": 23,
+                "expanded_url": "https://t.me/zifenod1",
+                "start": 0,
+                "url": "https://t.co/GFoTTuEUGu"
+              }
+            ]
+          }
+        },
+        "id": "1822109599459397632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103347278006337683",
+        "name": "自分",
+        "pinned_tweet_id": "2095062171684360268",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095053323384877056/BbrQ-zvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 176,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/GFoTTuEUGu",
+        "username": "zifensix",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

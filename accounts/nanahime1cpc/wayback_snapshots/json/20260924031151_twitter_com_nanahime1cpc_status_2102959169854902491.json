@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2102958459989942710",
+    "created_at": "2026-09-24T03:11:51.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T04:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102959169854902491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937919950385254401",
+          "start": 0,
+          "username": "fajowfjorke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102959169854902491",
+    "in_reply_to_user_id": "1937919950385254401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102959058932342847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fajowfjorke 我要吸毒我要吸毒我要吸毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2102958459989942710",
+        "created_at": "2026-09-24T03:11:51.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102959169854902491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937919950385254401",
+              "start": 0,
+              "username": "fajowfjorke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102959169854902491",
+        "in_reply_to_user_id": "1937919950385254401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102959058932342847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fajowfjorke 我要吸毒我要吸毒我要吸毒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937919950385254401",
+        "conversation_id": "2102958459989942710",
+        "created_at": "2026-09-24T03:11:25.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102959058932342847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102959058932342847",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102958459989942710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 我也想吸毒"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2102959169854902491",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 342,
+          "like_count": 1389,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 440
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-25T17:05:10.000Z",
+        "description": "adhd/oder/女/刚找回账号欢迎互fo\n中文/日本語/English",
+        "id": "1937919950385254401",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102959058932342847",
+        "name": "りりか",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937919950385254401/1789981403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100623651813097473/9QevBrMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 236,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "fajowfjorke",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

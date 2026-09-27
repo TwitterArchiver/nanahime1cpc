@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2103126258473177279",
+    "created_at": "2026-09-25T00:27:33.000Z",
+    "display_text_range": [
+      15,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T01:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103280209189626053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092788164234821632",
+          "start": 0,
+          "username": "Yuki1161_IC26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103280209189626053",
+    "in_reply_to_user_id": "2092788164234821632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103126258473177279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161_IC26 能再发一个吗我抑郁症快好了就是我的那个抑郁症躁郁症玉米症啤酒症烧烤症都快好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2103126258473177279",
+        "created_at": "2026-09-25T00:27:33.000Z",
+        "display_text_range": [
+          15,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T01:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103280209189626053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092788164234821632",
+              "start": 0,
+              "username": "Yuki1161_IC26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103280209189626053",
+        "in_reply_to_user_id": "2092788164234821632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103126258473177279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161_IC26 能再发一个吗我抑郁症快好了就是我的那个抑郁症躁郁症玉米症啤酒症烧烤症都快好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092788164234821632",
+        "conversation_id": "2103126258473177279",
+        "created_at": "2026-09-24T14:15:48.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103126258473177279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103126258473177279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "刚刚用验孕棒测出来我得抑郁症了，我笑的好崩溃，为什么要给我看这些，我的心灵很脆弱，我真的求你了我是一个心里特别脆弱的人我要崩溃了，我躯体化了为什么要 要让我这么崩溃，我真的怀疑我是不是有点毛病，我为什么要染上pjsk我不染上pjsk我是不是就不会看到这些了，真的看得我生理不适了，我真的求你了我是个心灵脆弱的人，我躯体化了 收起"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1815,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚用验孕棒测出来我得抑郁症了，我笑的好崩溃，为什么要给我看这些，我的心灵很脆弱，我真的求你了我是一个心里特别脆弱的人我要崩溃了，我躯体化了为什么要"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2103280209189626053",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 356,
+          "like_count": 1500,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "🚪8.9/6.4 用于买包子吃/6.0\n早已逝去之人 早已宽恕之罪\n和属于我的姐姐@Cecey33 共号\n直fo就是喜歡你/🐱💊🩸逃生倉@Yuki3Mepcpy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "Cecey33"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Yuki3Mepcpy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki3mepcpy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki3mepcpy",
+                "start": 0,
+                "url": "https://t.co/d3QOTu2Gty"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2103276182682710193",
+        "name": "岐#心宿二",
+        "pinned_tweet_id": "2102859048253063372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1790192746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103156026262380544/hsAG6BII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 338,
+          "like_count": 1359,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1241
+        },
+        "url": "https://t.co/d3QOTu2Gty",
+        "username": "Yuki1161_IC26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

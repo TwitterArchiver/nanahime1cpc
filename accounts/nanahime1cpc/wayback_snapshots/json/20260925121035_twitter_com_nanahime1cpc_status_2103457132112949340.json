@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2103399664305467692",
+    "created_at": "2026-09-25T12:10:35.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T13:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103457132112949340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2091692877491716096",
+          "start": 0,
+          "username": "Raiiin_J7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103457132112949340",
+    "in_reply_to_user_id": "2091692877491716096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103415337169608852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raiiin_J7 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2103415321608765440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDVFzOawAAlajy.jpg",
+        "width": 3075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2103399664305467692",
+        "created_at": "2026-09-25T12:10:35.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103457132112949340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2091692877491716096",
+              "start": 0,
+              "username": "Raiiin_J7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103457132112949340",
+        "in_reply_to_user_id": "2091692877491716096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103415337169608852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raiiin_J7 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103415321608765440"
+          ]
+        },
+        "author_id": "2091692877491716096",
+        "conversation_id": "2103399664305467692",
+        "created_at": "2026-09-25T09:24:30.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T10:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103415337169608852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lj4bOI0LaM",
+              "end": 44,
+              "expanded_url": "https://x.com/Raiiin_J7/status/2103415337169608852/photo/1",
+              "media_key": "3_2103415321608765440",
+              "start": 21,
+              "url": "https://t.co/lj4bOI0LaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103415337169608852",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103415321608765440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103399664305467692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 来，我这有（ https://t.co/lj4bOI0LaM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2103457132112949340",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 365,
+          "like_count": 1595,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 536
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T01:21:28.000Z",
+        "description": "前世@Rian_qi7（RIP）\n已确诊：OCD | MDD | 重度睡眠障碍\n是一个ODer💊，自学精神医学中……6g Pr+33度白酒+4.4mg阿普唑仑幸存玩家\n摇滚 | 前卫/迷幻摇滚 | 术力口 | 哲学 | AGC | 泛性向 | 友跨 | 社恐向\n同类互fo~喵（可以叫我小霁哦~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Rian_qi7"
+              }
+            ]
+          }
+        },
+        "id": "2091692877491716096",
+        "is_identity_verified": false,
+        "location": "人間",
+        "most_recent_tweet_id": "2103425411330032122",
+        "name": "霽🌈⃤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091692877491716096/1787624890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094552771265798144/3iteZZnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 63,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "Raiiin_J7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

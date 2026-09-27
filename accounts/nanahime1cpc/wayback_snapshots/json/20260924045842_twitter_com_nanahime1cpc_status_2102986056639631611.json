@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2102977664772624445",
+    "created_at": "2026-09-24T04:58:42.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T05:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102986056639631611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1404997135360270343",
+          "start": 0,
+          "username": "_yukinaOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102986056639631611",
+    "in_reply_to_user_id": "1404997135360270343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102977664772624445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yukinaOvO 我要这个萌萌的东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10833,
+        "height": 1280,
+        "media_key": "13_2102977626185052160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102977626185052160/img/i_x3Ptft1ByGOa6n.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102977626185052160/vid/avc1/320x568/Hv7xRw4F1FwdtNWE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102977626185052160/vid/avc1/480x852/EiVEHFxH8oYaZE8r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102977626185052160/vid/avc1/720x1280/fXKhuqVn75_ZgfQ2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102977626185052160/pl/3gH0dupLYIZrKLKu.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2102977664772624445",
+        "created_at": "2026-09-24T04:58:42.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T05:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102986056639631611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1404997135360270343",
+              "start": 0,
+              "username": "_yukinaOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102986056639631611",
+        "in_reply_to_user_id": "1404997135360270343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102977664772624445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yukinaOvO 我要这个萌萌的东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102977626185052160"
+          ]
+        },
+        "author_id": "1404997135360270343",
+        "conversation_id": "2102977664772624445",
+        "created_at": "2026-09-24T04:25:21.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T05:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102977664772624445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdSITXQwVK",
+              "end": 29,
+              "expanded_url": "https://x.com/_yukinaOvO/status/2102977664772624445/video/1",
+              "media_key": "13_2102977626185052160",
+              "start": 6,
+              "url": "https://t.co/mdSITXQwVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102977664772624445",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2102977626185052160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "展示柔软度 https://t.co/mdSITXQwVK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2102986056639631611",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 342,
+          "like_count": 1416,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-16T03:00:05.000Z",
+        "description": "^⌯𖥦⌯^ ੭ 鹿角/Yukina❄️ ┆碎碎念記錄合集┆中文En OK┆音游、繪畫┆毛绒大好き┆ハチワレ、湊友希那、リラックマ┆拒建政 查成分回fo\nサブ垢@yuk1_QwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "yuk1_QwQ"
+              }
+            ]
+          }
+        },
+        "id": "1404997135360270343",
+        "is_identity_verified": false,
+        "location": "｡ﾟ+.雨° 雪꜆˖♡* 貓咪/ᐠ - ˕ -マ Ⳋ",
+        "most_recent_tweet_id": "2102981292514255150",
+        "name": "Yuki._.Neko",
+        "pinned_tweet_id": "2093270988083642488",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1404997135360270343/1726210286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079184577940312064/VYDursNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 452,
+          "like_count": 6939,
+          "listed_count": 0,
+          "media_count": 367,
+          "tweet_count": 2901
+        },
+        "url": "",
+        "username": "_yukinaOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

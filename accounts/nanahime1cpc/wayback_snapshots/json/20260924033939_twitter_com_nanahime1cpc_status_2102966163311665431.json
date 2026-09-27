@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2102588863579566166",
+    "created_at": "2026-09-24T03:39:39.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T04:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102966163311665431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1257977880841080832",
+          "start": 0,
+          "username": "NEKONO14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102966163311665431",
+    "in_reply_to_user_id": "1257977880841080832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102965999637037557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEKONO14 很遗憾我已经确诊心境障碍了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2102588863579566166",
+        "created_at": "2026-09-24T03:39:39.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102966163311665431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1257977880841080832",
+              "start": 0,
+              "username": "NEKONO14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102966163311665431",
+        "in_reply_to_user_id": "1257977880841080832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102965999637037557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEKONO14 很遗憾我已经确诊心境障碍了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257977880841080832",
+        "conversation_id": "2102588863579566166",
+        "created_at": "2026-09-24T03:39:00.000Z",
+        "display_text_range": [
+          14,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102965999637037557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102965999637037557",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102588863579566166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 让医生确诊心境障碍，心境障碍包含各种精神疾病，轻度症状，但不会按照精神疾病上报，按照双向来治疗，但不按照双向来上报，也就是同一种疾病，按照同一种方法治疗，但给你的名字是最轻的一种病，而且是容易康复的那种疾病名称"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2102966163311665431",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 342,
+          "like_count": 1394,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 446
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-06T10:18:06.000Z",
+        "description": "你好，又见面了我是妃宫千早/O割餐券/重焦重抑/ADHD/C-PTSD/自杀干预/同类无限友好/性别是姐姐大人/姐姐会永远爱你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/RIH6N1kVpb"
+              }
+            ]
+          }
+        },
+        "id": "1257977880841080832",
+        "is_identity_verified": false,
+        "location": "惠泉女子学院",
+        "most_recent_tweet_id": "2102965999637037557",
+        "name": "御门千早",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257977880841080832/1790084774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102390600683425792/OaVHbXBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 49,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/RIH6N1kVpb",
+        "username": "NEKONO14",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

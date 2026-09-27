@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2102704813842768114",
+    "created_at": "2026-09-24T01:59:43.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T02:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102941014906515890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489486846211936256",
+          "start": 0,
+          "username": "Splaaaaashivk9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102941014906515890",
+    "in_reply_to_user_id": "1489486846211936256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102940856999440796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Splaaaaashivk9 亲爱的我也在。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4533,
+        "height": 1920,
+        "media_key": "13_2102940810027397120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102940810027397120/img/wmFUso3lYhMAyA4Y.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102940810027397120/vid/avc1/320x568/56UTpKw4e6WnN1gF.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102940810027397120/vid/avc1/1080x1920/-K_iJhiKwX1bVDJZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102940810027397120/vid/avc1/480x852/3sjpqJkOTRHK9riO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102940810027397120/pl/ACO2FZ0Sa2dfmU-m.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102940810027397120/vid/avc1/720x1280/hJVwczexfF0bMMYc.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2102704813842768114",
+        "created_at": "2026-09-24T01:59:43.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T02:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102941014906515890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489486846211936256",
+              "start": 0,
+              "username": "Splaaaaashivk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102941014906515890",
+        "in_reply_to_user_id": "1489486846211936256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102940856999440796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Splaaaaashivk9 亲爱的我也在。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102940810027397120"
+          ]
+        },
+        "author_id": "1489486846211936256",
+        "conversation_id": "2102704813842768114",
+        "created_at": "2026-09-24T01:59:05.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T02:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102940856999440796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aAhJXjmCPp",
+              "end": 42,
+              "expanded_url": "https://x.com/Splaaaaashivk9/status/2102940856999440796/video/1",
+              "media_key": "13_2102940810027397120",
+              "start": 19,
+              "url": "https://t.co/aAhJXjmCPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102940856999440796",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2102940810027397120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102704813842768114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 我真在😭 https://t.co/aAhJXjmCPp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2102941014906515890",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 332,
+          "like_count": 1380,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 431
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T06:32:02.000Z",
+        "description": "我喜欢：🎵：Low Roar/ElectroPunk/HardDance/Techno/Industrial\n动漫和喜欢的Gal都剪到视频号里去了 玩的游戏非常杂欢迎来找我玩～\n如果你是小众b或許在短視頻里刷到过我 LGBTQ友好！！！\n我要重新尝试一些类型（哼哼\n#drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 133,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1489486846211936256",
+        "is_identity_verified": false,
+        "location": "活在真空里欸",
+        "most_recent_tweet_id": "2102940856999440796",
+        "name": "Splaaaaash!",
+        "pinned_tweet_id": "2100582574347444427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489486846211936256/1775579072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051620660800339968/Ht6ohq57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 383,
+          "like_count": 1595,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "Splaaaaashivk9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2102704813842768114",
+    "created_at": "2026-09-24T02:16:14.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T03:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102945172111982643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489486846211936256",
+          "start": 0,
+          "username": "Splaaaaashivk9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102945172111982643",
+    "in_reply_to_user_id": "1489486846211936256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102941335863062880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Splaaaaashivk9 笑死我了我中奖啥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2102704813842768114",
+        "created_at": "2026-09-24T02:16:14.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102945172111982643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489486846211936256",
+              "start": 0,
+              "username": "Splaaaaashivk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102945172111982643",
+        "in_reply_to_user_id": "1489486846211936256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102941335863062880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Splaaaaashivk9 笑死我了我中奖啥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489486846211936256",
+        "conversation_id": "2102704813842768114",
+        "created_at": "2026-09-24T02:00:59.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102941335863062880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102941335863062880",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102941014906515890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 你中奖了你知道吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2102945172111982643",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 333,
+          "like_count": 1380,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T06:32:02.000Z",
+        "description": "我喜欢：🎵：Low Roar/ElectroPunk/HardDance/Techno/Industrial\n动漫和喜欢的Gal都剪到视频号里去了 玩的游戏非常杂欢迎来找我玩～\n如果你是小众b或許在短視頻里刷到过我 LGBTQ友好！！！\n我要重新尝试一些类型（哼哼\n#drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 133,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1489486846211936256",
+        "is_identity_verified": false,
+        "location": "活在真空里欸",
+        "most_recent_tweet_id": "2102941552482177164",
+        "name": "Splaaaaash!",
+        "pinned_tweet_id": "2100582574347444427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489486846211936256/1775579072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051620660800339968/Ht6ohq57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 383,
+          "like_count": 1599,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "Splaaaaashivk9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

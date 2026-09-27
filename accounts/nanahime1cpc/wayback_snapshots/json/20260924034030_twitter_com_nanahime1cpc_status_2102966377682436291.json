@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2102962764025344246",
+    "created_at": "2026-09-24T03:40:30.000Z",
+    "display_text_range": [
+      10,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T04:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102966377682436291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1257977880841080832",
+          "start": 0,
+          "username": "NEKONO14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102966377682436291",
+    "in_reply_to_user_id": "1257977880841080832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102965703448187142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEKONO14 谁懂这句话我说的比岐哥1.0的号还早"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2102965684305375232",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HS88JdvbsAA_Z5b.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HS88JdvbsAA_Z5b.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2102962764025344246",
+        "created_at": "2026-09-24T03:40:30.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102966377682436291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1257977880841080832",
+              "start": 0,
+              "username": "NEKONO14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102966377682436291",
+        "in_reply_to_user_id": "1257977880841080832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102965703448187142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEKONO14 谁懂这句话我说的比岐哥1.0的号还早"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2102965684305375232"
+          ]
+        },
+        "author_id": "1257977880841080832",
+        "conversation_id": "2102962764025344246",
+        "created_at": "2026-09-24T03:37:49.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102965703448187142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KEaRamzRbT",
+              "end": 45,
+              "expanded_url": "https://x.com/NEKONO14/status/2102965703448187142/photo/1",
+              "media_key": "16_2102965684305375232",
+              "start": 22,
+              "url": "https://t.co/KEaRamzRbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102965703448187142",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "16_2102965684305375232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102962764025344246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 是不是岐哥教的 https://t.co/KEaRamzRbT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2102966377682436291",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 342,
+          "like_count": 1395,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 448
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-06T10:18:06.000Z",
+        "description": "你好，又见面了我是妃宫千早/O割餐券/重焦重抑/ADHD/C-PTSD/自杀干预/同类无限友好/性别是姐姐大人/姐姐会永远爱你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/RIH6N1kVpb"
+              }
+            ]
+          }
+        },
+        "id": "1257977880841080832",
+        "is_identity_verified": false,
+        "location": "惠泉女子学院",
+        "most_recent_tweet_id": "2102965999637037557",
+        "name": "御门千早",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257977880841080832/1790084774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102390600683425792/OaVHbXBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 49,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/RIH6N1kVpb",
+        "username": "NEKONO14",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

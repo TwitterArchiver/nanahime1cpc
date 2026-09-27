@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2103446638912327974",
+    "created_at": "2026-09-25T11:33:20.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T12:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103447756753019357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2032861173780267008",
+          "start": 0,
+          "username": "Cang390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103447756753019357",
+    "in_reply_to_user_id": "2032861173780267008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103447132086714472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cang390 谢谢亲爱的🫴💖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2103446638912327974",
+        "created_at": "2026-09-25T11:33:20.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103447756753019357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2032861173780267008",
+              "start": 0,
+              "username": "Cang390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103447756753019357",
+        "in_reply_to_user_id": "2032861173780267008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103447132086714472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cang390 谢谢亲爱的🫴💖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032861173780267008",
+        "conversation_id": "2103446638912327974",
+        "created_at": "2026-09-25T11:30:51.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T12:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103447132086714472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103447132086714472",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103446638912327974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 好腻害ദ്ദി◝ ⩊ ◜)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2103447756753019357",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 364,
+          "like_count": 1577,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 532
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-14T16:47:40.000Z",
+        "description": "你好！\n06，友跨，精神不稳定，社恐（容易灵光一闪，发出抽象言论，请多包涵)\n小号：@cangxian120  tg：https://t.co/qMH5UIKNMD\n平等视奸每个人\n简介不全，会慢慢补",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "cangxian120"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/cang390",
+                "end": 82,
+                "expanded_url": "http://t.me/cang390",
+                "start": 59,
+                "url": "https://t.co/qMH5UIKNMD"
+              }
+            ]
+          }
+        },
+        "id": "2032861173780267008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103447132086714472",
+        "name": "沧弦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032861173780267008/1789008560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100840235269840896/fnfLqkcU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 176,
+          "like_count": 3983,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "Cang390",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

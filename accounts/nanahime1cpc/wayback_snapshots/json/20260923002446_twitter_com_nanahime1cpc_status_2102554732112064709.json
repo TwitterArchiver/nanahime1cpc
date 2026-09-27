@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2102554732112064709",
+    "created_at": "2026-09-23T00:24:46.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T01:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102554732112064709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yuki1161_IC26/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Yuki1161_IC26/status/2102420954055921859",
+          "start": 15,
+          "url": "https://t.co/eulQWqHylX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102554732112064709",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102420954055921859",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "岐哥每次发戒了就知道是又吸了 https://t.co/eulQWqHylX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2102554732112064709",
+        "created_at": "2026-09-23T00:24:46.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T01:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102554732112064709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuki1161_IC26/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Yuki1161_IC26/status/2102420954055921859",
+              "start": 15,
+              "url": "https://t.co/eulQWqHylX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102554732112064709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102420954055921859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "岐哥每次发戒了就知道是又吸了 https://t.co/eulQWqHylX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092788164234821632",
+        "conversation_id": "2102420954055921859",
+        "created_at": "2026-09-22T15:33:11.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T16:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102420954055921859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102420954055921859",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2037,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2102554732112064709",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2096536020737298477",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 333,
+          "like_count": 1339,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "🚪8.9/6.4 用于买包子吃/6.0\n早已逝去之人 早已宽恕之罪/谨记用法用量\n和属于我的姐姐@Cecey33 共号\n直fo喜歡的人/喜欢🐱/逃生仓 @Yuki3Mepcpy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "Cecey33"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "Yuki3Mepcpy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki3mepcpy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki3mepcpy",
+                "start": 0,
+                "url": "https://t.co/d3QOTu2Gty"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2102534300147073027",
+        "name": "岐#心宿二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096464883303010304/XZtwCCUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 355,
+          "like_count": 1233,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1152
+        },
+        "url": "https://t.co/d3QOTu2Gty",
+        "username": "Yuki1161_IC26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

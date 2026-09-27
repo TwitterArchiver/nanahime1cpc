@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2103342554238550288",
+    "created_at": "2026-09-25T12:15:04.000Z",
+    "display_text_range": [
+      13,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T13:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103458260171042981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547812257676963840",
+          "start": 0,
+          "username": "YLS69979546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103458260171042981",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103457925536849936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YLS69979546 Jerry老师别馋我了我在精卫馋哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2103342554238550288",
+        "created_at": "2026-09-25T12:15:04.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103458260171042981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103458260171042981",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103457925536849936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 Jerry老师别馋我了我在精卫馋哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2103342554238550288",
+        "created_at": "2026-09-25T12:13:44.000Z",
+        "display_text_range": [
+          14,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103457925536849936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103457925536849936",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103342554238550288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 我身上好多个针孔除了一个是去医院验了个血其他都是吸毒留下的😏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2103458260171042981",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 365,
+          "like_count": 1597,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103457925536849936",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 320,
+          "like_count": 12268,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3581
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
