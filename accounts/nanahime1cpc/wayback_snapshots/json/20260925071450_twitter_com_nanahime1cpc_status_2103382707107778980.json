@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103382650107084800"
+      ]
+    },
+    "author_id": "2094681707052212224",
+    "conversation_id": "2103382707107778980",
+    "created_at": "2026-09-25T07:14:50.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T08:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103382707107778980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4tcC1D4ShQ",
+          "end": 41,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2103382707107778980/photo/1",
+          "media_key": "3_2103382650107084800",
+          "start": 18,
+          "url": "https://t.co/4tcC1D4ShQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103382707107778980",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103382650107084800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在精卫当大厨被病友夸了\n这是乱儿 https://t.co/4tcC1D4ShQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2776,
+        "media_key": "3_2103382650107084800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC3YEZaQAAAUM9.jpg",
+        "width": 2320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103382650107084800"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "conversation_id": "2103382707107778980",
+        "created_at": "2026-09-25T07:14:50.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103382707107778980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4tcC1D4ShQ",
+              "end": 41,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2103382707107778980/photo/1",
+              "media_key": "3_2103382650107084800",
+              "start": 18,
+              "url": "https://t.co/4tcC1D4ShQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103382707107778980",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103382650107084800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在精卫当大厨被病友夸了\n这是乱儿 https://t.co/4tcC1D4ShQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2103382707107778980",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 360,
+          "like_count": 1566,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 520
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

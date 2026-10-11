@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2104361322628755757",
+    "created_at": "2026-09-28T04:33:09.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T05:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104429179748126806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1190192406307602433",
+          "start": 0,
+          "username": "annaqizuyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104429179748126806",
+    "in_reply_to_user_id": "1190192406307602433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104428120128602605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annaqizuyi 这他妈叫呼吸性碱中毒。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2104361322628755757",
+        "created_at": "2026-09-28T04:33:09.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104429179748126806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1190192406307602433",
+              "start": 0,
+              "username": "annaqizuyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104429179748126806",
+        "in_reply_to_user_id": "1190192406307602433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104428120128602605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annaqizuyi 这他妈叫呼吸性碱中毒。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1190192406307602433",
+        "conversation_id": "2104361322628755757",
+        "created_at": "2026-09-28T04:28:56.000Z",
+        "display_text_range": [
+          14,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104428120128602605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104428120128602605",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104361322628755757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 随后你听从了医生的建议，不停地吸气呼气越来快。思哈思哈，思哈思哈，思哈思哈...接着你逐渐感觉到头晕眼花，四肢无力了。原来如此医生果然是天才，继续思哈思哈，思哈思哈。接着你就晕了过去。其实呼吸必须是自然的按照一定频率的，不然对身体是有毒的，你试试快速的思哈思哈就明白我说的了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2104429179748126806",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 375,
+          "like_count": 1754,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 595
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-01T09:03:16.000Z",
+        "description": "我只希望自由只能更加自由\n警告：我的思想价值观有严重问题（从社会规范上面说确实如此）主要就是情绪词和语言游戏的自说自话为主。有一点要说清楚我并不是在搞“哲学”，我只是在玩一个思维游戏我从这些和自己游戏里面会有神圣感和欣快感。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/annaqizhuyi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/annaqizhuyi",
+                "start": 0,
+                "url": "https://t.co/DcqWU8dcZh"
+              }
+            ]
+          }
+        },
+        "id": "1190192406307602433",
+        "is_identity_verified": false,
+        "location": "上海闵行徐汇交界处",
+        "most_recent_tweet_id": "2104428120128602605",
+        "name": "卡爾思",
+        "pinned_tweet_id": "2077262016499335489",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1190192406307602433/1588900893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1190192652026830848/6P_aT4uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 167,
+          "like_count": 170,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 999
+        },
+        "url": "https://t.co/DcqWU8dcZh",
+        "username": "annaqizuyi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

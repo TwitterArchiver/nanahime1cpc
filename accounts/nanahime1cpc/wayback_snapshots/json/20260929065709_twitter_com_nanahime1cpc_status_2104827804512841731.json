@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104827281227358208",
+        "13_2104827280203841536",
+        "13_2104827280241631232",
+        "13_2104827281114079232"
+      ]
+    },
+    "author_id": "2094681707052212224",
+    "conversation_id": "2104827804512841731",
+    "created_at": "2026-09-29T06:57:09.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T07:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104827804512841731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EyjbpT6tdy",
+          "end": 57,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2104827804512841731/video/1",
+          "media_key": "3_2104827281227358208",
+          "start": 34,
+          "url": "https://t.co/EyjbpT6tdy"
+        },
+        {
+          "display_url": "pic.x.com/EyjbpT6tdy",
+          "end": 57,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2104827804512841731/video/1",
+          "media_key": "13_2104827280203841536",
+          "start": 34,
+          "url": "https://t.co/EyjbpT6tdy"
+        },
+        {
+          "display_url": "pic.x.com/EyjbpT6tdy",
+          "end": 57,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2104827804512841731/video/1",
+          "media_key": "13_2104827280241631232",
+          "start": 34,
+          "url": "https://t.co/EyjbpT6tdy"
+        },
+        {
+          "display_url": "pic.x.com/EyjbpT6tdy",
+          "end": 57,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2104827804512841731/video/1",
+          "media_key": "13_2104827281114079232",
+          "start": 34,
+          "url": "https://t.co/EyjbpT6tdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104827804512841731",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104827281227358208"
+      },
+      {
+        "media_key": "13_2104827280203841536"
+      },
+      {
+        "media_key": "13_2104827280241631232"
+      },
+      {
+        "media_key": "13_2104827281114079232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这期太素太普了，互关别被我长相吓得双取。✋🏻😭✋🏻😭😭😭✋🏻😭✋🏻 https://t.co/EyjbpT6tdy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2104827281227358208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXZQqsboAAKMoO.jpg",
+        "width": 4096
+      },
+      {
+        "duration_ms": 6778,
+        "height": 1080,
+        "media_key": "13_2104827280203841536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104827280203841536/img/auUr5-M7nN-b5mov.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104827280203841536/vid/avc1/480x270/MNI_qkKkIZtXtOaA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104827280203841536/vid/avc1/640x360/E3hyjPvNry_XmlCw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104827280203841536/vid/avc1/1280x720/WEOlafJgdt5iksOD.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104827280203841536/pl/vJ6kGGNToVTplAqT.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 6612,
+        "height": 1080,
+        "media_key": "13_2104827280241631232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104827280241631232/img/jXLTXNLjvjwD6P7P.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104827280241631232/vid/avc1/480x270/IpBaScOOaTkf7Nes.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104827280241631232/vid/avc1/640x360/03nBB9eoFCCaNrBr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104827280241631232/vid/avc1/1280x720/6795yq1AUxjHEkQj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104827280241631232/pl/zOmKHIDUuLpD_m-X.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 10064,
+        "height": 1080,
+        "media_key": "13_2104827281114079232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104827281114079232/img/TcigBMDG8HAYC1uT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104827281114079232/vid/avc1/480x270/VUNHaxhq5JdZ2IU4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104827281114079232/vid/avc1/640x360/Tq_G3gBdpd2gJ7kt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104827281114079232/vid/avc1/1280x720/ub_r8_CbILF47quU.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104827281114079232/pl/Eh8GK90K2QDWT4qL.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104827281227358208",
+            "13_2104827280203841536",
+            "13_2104827280241631232",
+            "13_2104827281114079232"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "conversation_id": "2104827804512841731",
+        "created_at": "2026-09-29T06:57:09.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T07:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104827804512841731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EyjbpT6tdy",
+              "end": 57,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2104827804512841731/video/1",
+              "media_key": "3_2104827281227358208",
+              "start": 34,
+              "url": "https://t.co/EyjbpT6tdy"
+            },
+            {
+              "display_url": "pic.x.com/EyjbpT6tdy",
+              "end": 57,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2104827804512841731/video/1",
+              "media_key": "13_2104827280203841536",
+              "start": 34,
+              "url": "https://t.co/EyjbpT6tdy"
+            },
+            {
+              "display_url": "pic.x.com/EyjbpT6tdy",
+              "end": 57,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2104827804512841731/video/1",
+              "media_key": "13_2104827280241631232",
+              "start": 34,
+              "url": "https://t.co/EyjbpT6tdy"
+            },
+            {
+              "display_url": "pic.x.com/EyjbpT6tdy",
+              "end": 57,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2104827804512841731/video/1",
+              "media_key": "13_2104827281114079232",
+              "start": 34,
+              "url": "https://t.co/EyjbpT6tdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104827804512841731",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104827281227358208"
+          },
+          {
+            "media_key": "13_2104827280203841536"
+          },
+          {
+            "media_key": "13_2104827280241631232"
+          },
+          {
+            "media_key": "13_2104827281114079232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这期太素太普了，互关别被我长相吓得双取。✋🏻😭✋🏻😭😭😭✋🏻😭✋🏻 https://t.co/EyjbpT6tdy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2104827804512841731",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 385,
+          "like_count": 1932,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 645
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

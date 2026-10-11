@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2104762446456279231",
+    "created_at": "2026-09-29T04:21:49.000Z",
+    "display_text_range": [
+      15,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T05:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104788717399629900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "834974107577925632",
+          "start": 0,
+          "username": "yuuki_konno__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104788717399629900",
+    "in_reply_to_user_id": "834974107577925632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104788558049591491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuki_konno__ ？妈的笑死我了。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2104762446456279231",
+        "created_at": "2026-09-29T04:21:49.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104788717399629900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "834974107577925632",
+              "start": 0,
+              "username": "yuuki_konno__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104788717399629900",
+        "in_reply_to_user_id": "834974107577925632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104788558049591491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuki_konno__ ？妈的笑死我了。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "834974107577925632",
+        "conversation_id": "2104762446456279231",
+        "created_at": "2026-09-29T04:21:11.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104788558049591491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104788558049591491",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104762446456279231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 666关出解离感了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2104788717399629900",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 385,
+          "like_count": 1923,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-24T03:51:55.000Z",
+        "description": "银梦小鬼，偶尔乳包/希望结识有趣的人/西朝鲜在住/简&繁&En/摄影&日本民俗喜欢/日本语学习中",
+        "id": "834974107577925632",
+        "is_identity_verified": false,
+        "location": "west koera",
+        "most_recent_tweet_id": "2104788558049591491",
+        "name": "mayu",
+        "pinned_tweet_id": "1272225850004471813",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/834974107577925632/1588659753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076850315530539009/3bsBXrEx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 1341,
+          "like_count": 53067,
+          "listed_count": 0,
+          "media_count": 1217,
+          "tweet_count": 3684
+        },
+        "url": "",
+        "username": "yuuki_konno__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

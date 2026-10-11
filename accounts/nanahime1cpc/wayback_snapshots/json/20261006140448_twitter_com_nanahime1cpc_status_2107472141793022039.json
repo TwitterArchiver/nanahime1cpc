@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2107445261098184795",
+    "created_at": "2026-10-06T14:04:48.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T15:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107472141793022039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1492068366731059203",
+          "start": 0,
+          "username": "Yuki3Mepcpy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107472141793022039",
+    "in_reply_to_user_id": "1492068366731059203",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107445261098184795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki3Mepcpy 戒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 906,
+        "media_key": "3_2107445236527955968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8mRuLWgAA2J91.jpg",
+        "width": 1027
+      },
+      {
+        "height": 813,
+        "media_key": "3_2107445244635541504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8mSMYWcAAd4GW.jpg",
+        "width": 1041
+      },
+      {
+        "height": 2415,
+        "media_key": "3_2107445252298551296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8mSo7WsAAu9MT.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2107445261098184795",
+        "created_at": "2026-10-06T14:04:48.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T15:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107472141793022039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1492068366731059203",
+              "start": 0,
+              "username": "Yuki3Mepcpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107472141793022039",
+        "in_reply_to_user_id": "1492068366731059203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107445261098184795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki3Mepcpy 戒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107445236527955968",
+            "3_2107445244635541504",
+            "3_2107445252298551296"
+          ]
+        },
+        "author_id": "1492068366731059203",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107445261098184795",
+        "created_at": "2026-10-06T12:17:59.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T13:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107445261098184795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fmIIZjzPOj",
+              "end": 66,
+              "expanded_url": "https://x.com/Yuki3Mepcpy/status/2107445261098184795/photo/1",
+              "media_key": "3_2107445236527955968",
+              "start": 43,
+              "url": "https://t.co/fmIIZjzPOj"
+            },
+            {
+              "display_url": "pic.x.com/fmIIZjzPOj",
+              "end": 66,
+              "expanded_url": "https://x.com/Yuki3Mepcpy/status/2107445261098184795/photo/1",
+              "media_key": "3_2107445244635541504",
+              "start": 43,
+              "url": "https://t.co/fmIIZjzPOj"
+            },
+            {
+              "display_url": "pic.x.com/fmIIZjzPOj",
+              "end": 66,
+              "expanded_url": "https://x.com/Yuki3Mepcpy/status/2107445261098184795/photo/1",
+              "media_key": "3_2107445252298551296",
+              "start": 43,
+              "url": "https://t.co/fmIIZjzPOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107445261098184795",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107445236527955968"
+          },
+          {
+            "media_key": "3_2107445244635541504"
+          },
+          {
+            "media_key": "3_2107445252298551296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢，在我有限生命内希望一直下去\n\n水上由岐牛批😋非常有品哦\n\n20.11 剧烈戒断 https://t.co/fmIIZjzPOj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2107472141793022039",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 426,
+          "like_count": 2618,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 776
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-11T09:30:08.000Z",
+        "description": "岐7.0世/ 依旧被永封啊啊淡推淡推\n早已逝去之人 早已宽恕之罪 /无💊🩸🐱📷元素\n和小策宝宝 @Cecey33 共号不定时出没\n逃生仓@Yuki114514_DXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "Cecey33"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "Yuki114514_DXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki1161_ic26",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki1161_ic26",
+                "start": 0,
+                "url": "https://t.co/VLygxKkrdq"
+              }
+            ]
+          }
+        },
+        "id": "1492068366731059203",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2107462092068388899",
+        "name": "岐#心宿二",
+        "pinned_tweet_id": "2107417783008968790",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492068366731059203/1790852745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106795808087523329/yikCw85f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 237,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/VLygxKkrdq",
+        "username": "Yuki3Mepcpy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

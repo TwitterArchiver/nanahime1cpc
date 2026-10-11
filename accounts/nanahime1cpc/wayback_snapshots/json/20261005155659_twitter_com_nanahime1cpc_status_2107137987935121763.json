@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2107125551345586629",
+    "created_at": "2026-10-05T15:56:59.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T16:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107137987935121763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2094034650998181888",
+          "start": 0,
+          "username": "jishenghu126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107137987935121763",
+    "in_reply_to_user_id": "2094034650998181888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107125551345586629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jishenghu126 我全家都想吃这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2107125505057333248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4De5oboAAryJw.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2107125551345586629",
+        "created_at": "2026-10-05T15:56:59.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T16:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107137987935121763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094034650998181888",
+              "start": 0,
+              "username": "jishenghu126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107137987935121763",
+        "in_reply_to_user_id": "2094034650998181888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107125551345586629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jishenghu126 我全家都想吃这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107125505057333248"
+          ]
+        },
+        "author_id": "2094034650998181888",
+        "conversation_id": "2107125551345586629",
+        "created_at": "2026-10-05T15:07:34.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T16:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107125551345586629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpPz7sdBwb",
+              "end": 50,
+              "expanded_url": "https://x.com/jishenghu126/status/2107125551345586629/photo/1",
+              "media_key": "3_2107125505057333248",
+              "start": 27,
+              "url": "https://t.co/bpPz7sdBwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107125551345586629",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107125505057333248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望你们永远都不要知道这是什么。😨😨😨😡😡😡😡😇😇😇 https://t.co/bpPz7sdBwb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2107137987935121763",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 419,
+          "like_count": 2463,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 750
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T12:09:55.000Z",
+        "description": "北海的花开了，我推你去走走。",
+        "id": "2094034650998181888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107136202881245388",
+        "name": "槲寄生.(三代)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094034650998181888/1788623213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105992841872965632/MOMT4IsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 49,
+          "like_count": 805,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "jishenghu126",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

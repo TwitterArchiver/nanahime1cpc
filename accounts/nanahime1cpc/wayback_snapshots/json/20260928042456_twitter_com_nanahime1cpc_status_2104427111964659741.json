@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2104427111964659741",
+    "created_at": "2026-09-28T04:24:56.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T05:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104427111964659741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxtltm/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xxtltm/status/2099701045018386689",
+          "start": 5,
+          "url": "https://t.co/AF2Y69wn5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104427111964659741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099701045018386689",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看哭了 https://t.co/AF2Y69wn5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2099701040757002240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOi-MzW0AAD-t9.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2104427111964659741",
+        "created_at": "2026-09-28T04:24:56.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104427111964659741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxtltm/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xxtltm/status/2099701045018386689",
+              "start": 5,
+              "url": "https://t.co/AF2Y69wn5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104427111964659741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099701045018386689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看哭了 https://t.co/AF2Y69wn5x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099701040757002240"
+          ]
+        },
+        "author_id": "1657096727269105868",
+        "conversation_id": "2099701045018386689",
+        "created_at": "2026-09-15T03:25:14.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099701045018386689"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "mandy"
+            },
+            {
+              "end": 15,
+              "start": 7,
+              "tag": "chester"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQhCljtMHa",
+              "end": 39,
+              "expanded_url": "https://x.com/xxtltm/status/2099701045018386689/photo/1",
+              "media_key": "3_2099701040757002240",
+              "start": 16,
+              "url": "https://t.co/uQhCljtMHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099701045018386689",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2099701040757002240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 2631,
+          "like_count": 372,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "#mandy #chester https://t.co/uQhCljtMHa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2104427111964659741",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 374,
+          "like_count": 1754,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 594
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-12T18:53:56.000Z",
+        "description": "— 17 + ( - 17 BLOCKED )",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xxtltm.straw.page",
+                "end": 23,
+                "expanded_url": "https://xxtltm.straw.page",
+                "start": 0,
+                "url": "https://t.co/TmJqicvfUc"
+              }
+            ]
+          }
+        },
+        "id": "1657096727269105868",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104399325178540508",
+        "name": "920200",
+        "pinned_tweet_id": "2099329643207704846",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1657096727269105868/1790068536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101149113458786304/4gfm3Fh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 32,
+          "like_count": 1088,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/TmJqicvfUc",
+        "username": "xxtltm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

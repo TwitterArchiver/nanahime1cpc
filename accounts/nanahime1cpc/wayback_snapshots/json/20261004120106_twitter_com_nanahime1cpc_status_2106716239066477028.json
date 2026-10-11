@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106716228320714752"
+      ]
+    },
+    "author_id": "2094681707052212224",
+    "conversation_id": "2106716239066477028",
+    "created_at": "2026-10-04T12:01:06.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T13:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106716239066477028"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 0,
+          "tag": "BrawlStarsㅤㅤ"
+        },
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "Starrnova"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kSzRZvK6XR",
+          "end": 49,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2106716239066477028/photo/1",
+          "media_key": "3_2106716228320714752",
+          "start": 26,
+          "url": "https://t.co/kSzRZvK6XR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106716239066477028",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2106716228320714752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#BrawlStarsㅤㅤ \n#Starrnova https://t.co/kSzRZvK6XR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2106716228320714752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyPP2-bYAA6Spo.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106716228320714752"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "conversation_id": "2106716239066477028",
+        "created_at": "2026-10-04T12:01:06.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106716239066477028"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "BrawlStarsㅤㅤ"
+            },
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "Starrnova"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSzRZvK6XR",
+              "end": 49,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2106716239066477028/photo/1",
+              "media_key": "3_2106716228320714752",
+              "start": 26,
+              "url": "https://t.co/kSzRZvK6XR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106716239066477028",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2106716228320714752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#BrawlStarsㅤㅤ \n#Starrnova https://t.co/kSzRZvK6XR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2106716239066477028",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 407,
+          "like_count": 2337,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 700
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

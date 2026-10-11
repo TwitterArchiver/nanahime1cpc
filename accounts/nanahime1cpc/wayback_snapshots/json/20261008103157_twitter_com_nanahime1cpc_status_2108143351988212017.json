@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2108143351988212017",
+    "created_at": "2026-10-08T10:31:57.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T11:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108143351988212017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whele_u3u/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/whele_u3u/status/2108132742810755399",
+          "start": 9,
+          "url": "https://t.co/YhWWWN1IeJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108143351988212017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108132742810755399",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看哭了太可爱了 https://t.co/YhWWWN1IeJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2108132737731465216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUGXjjvbEAA_K6d.jpg",
+        "width": 1676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2108143351988212017",
+        "created_at": "2026-10-08T10:31:57.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T11:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108143351988212017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whele_u3u/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/whele_u3u/status/2108132742810755399",
+              "start": 9,
+              "url": "https://t.co/YhWWWN1IeJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108143351988212017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108132742810755399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看哭了太可爱了 https://t.co/YhWWWN1IeJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108132737731465216"
+          ]
+        },
+        "author_id": "1388271313593110532",
+        "conversation_id": "2108132742810755399",
+        "created_at": "2026-10-08T09:49:47.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T10:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108132742810755399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnse6jFC0o",
+              "end": 25,
+              "expanded_url": "https://x.com/whele_u3u/status/2108132742810755399/photo/1",
+              "media_key": "3_2108132737731465216",
+              "start": 2,
+              "url": "https://t.co/gnse6jFC0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108132742810755399",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2108132737731465216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 567,
+          "like_count": 77,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "🌠 https://t.co/gnse6jFC0o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2108143351988212017",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 442,
+          "like_count": 2806,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 826
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-30T23:17:39.000Z",
+        "description": "@Axs_JP ✦ illustrator🎨 AI✖️ ꒰ bs/starrnova꒱\nsub:@kotsumell",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Axs_JP"
+              },
+              {
+                "end": 58,
+                "start": 48,
+                "username": "kotsumell"
+              }
+            ]
+          }
+        },
+        "id": "1388271313593110532",
+        "is_identity_verified": false,
+        "location": "依頼✖︎✖︎✖︎✖︎",
+        "most_recent_tweet_id": "2108132742810755399",
+        "name": "こつめ🐨🪐",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1388271313593110532/1781974239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058973560409059329/3xGKWFoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 244,
+          "like_count": 12511,
+          "listed_count": 8,
+          "media_count": 487,
+          "tweet_count": 6877
+        },
+        "url": "",
+        "username": "whele_u3u",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

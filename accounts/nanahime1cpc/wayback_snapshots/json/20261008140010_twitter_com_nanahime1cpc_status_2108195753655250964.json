@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108195691634024448"
+      ]
+    },
+    "author_id": "2094681707052212224",
+    "conversation_id": "2108195753655250964",
+    "created_at": "2026-10-08T14:00:10.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T15:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108195753655250964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928052064728535049",
+          "start": 0,
+          "username": "crushon0910"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ck9p2gxP77",
+          "end": 49,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2108195753655250964/photo/1",
+          "media_key": "3_2108195691634024448",
+          "start": 26,
+          "url": "https://t.co/Ck9p2gxP77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108195753655250964",
+    "in_reply_to_user_id": "1928052064728535049",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108195691634024448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@crushon0910 \n我也收到啦！谢谢谢谢！ https://t.co/Ck9p2gxP77"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2108195691634024448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUHQz9Ta4AADPTx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108195691634024448"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "conversation_id": "2108195753655250964",
+        "created_at": "2026-10-08T14:00:10.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T15:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108195753655250964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928052064728535049",
+              "start": 0,
+              "username": "crushon0910"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ck9p2gxP77",
+              "end": 49,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2108195753655250964/photo/1",
+              "media_key": "3_2108195691634024448",
+              "start": 26,
+              "url": "https://t.co/Ck9p2gxP77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108195753655250964",
+        "in_reply_to_user_id": "1928052064728535049",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108195691634024448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@crushon0910 \n我也收到啦！谢谢谢谢！ https://t.co/Ck9p2gxP77"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2108195753655250964",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 449,
+          "like_count": 2835,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 843
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-29T11:33:42.000Z",
+        "description": "泽/小泽 09 isfp-a\n\n请保密我的爱丨不想让人知道\n\n沉重的爱/负能碎碎念/人生思考\nwmc（偶尔）\n\n可直fo/但会查成分/聊骚约炮秒屏\n其实我是餐券 想多互fo\n匿名向我发消息：https://t.co/bMedcJas9B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/x.x18117",
+                "end": 118,
+                "expanded_url": "https://ngl.link/x.x18117",
+                "start": 95,
+                "url": "https://t.co/bMedcJas9B"
+              }
+            ]
+          }
+        },
+        "id": "1928052064728535049",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108195267401199973",
+        "name": "X.X?",
+        "pinned_tweet_id": "2107185297205387638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1928052064728535049/1791377972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103462885678788608/ryOxCm2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 102,
+          "like_count": 1293,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 665
+        },
+        "url": "",
+        "username": "crushon0910",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

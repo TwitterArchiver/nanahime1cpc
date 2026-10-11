@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103390806879150080",
+        "3_2103390806883348480",
+        "3_2103390806942081024"
+      ]
+    },
+    "author_id": "2094681707052212224",
+    "conversation_id": "2103390947040264237",
+    "created_at": "2026-09-25T07:47:35.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T08:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103390947040264237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OPjtf40u0a",
+          "end": 74,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2103390947040264237/photo/1",
+          "media_key": "3_2103390806879150080",
+          "start": 51,
+          "url": "https://t.co/OPjtf40u0a"
+        },
+        {
+          "display_url": "pic.x.com/OPjtf40u0a",
+          "end": 74,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2103390947040264237/photo/1",
+          "media_key": "3_2103390806883348480",
+          "start": 51,
+          "url": "https://t.co/OPjtf40u0a"
+        },
+        {
+          "display_url": "pic.x.com/OPjtf40u0a",
+          "end": 74,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2103390947040264237/photo/1",
+          "media_key": "3_2103390806942081024",
+          "start": 51,
+          "url": "https://t.co/OPjtf40u0a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103390947040264237",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103390806879150080"
+      },
+      {
+        "media_key": "3_2103390806883348480"
+      },
+      {
+        "media_key": "3_2103390806942081024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这期是我的大股东我操感恩響老师🥺🥺🥺🥺🥺🫴💖🫴💖🫴💖🫴💖只有这种可以用霸总语气和我讲话谢谢！！！！！ https://t.co/OPjtf40u0a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2103390806879150080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC-y2vaoAAEwGD.jpg",
+        "width": 924
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2103390806883348480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC-y2wasAAFwip.jpg",
+        "width": 972
+      },
+      {
+        "height": 1128,
+        "media_key": "3_2103390806942081024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC-y2-a4AAx6yB.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103390806879150080",
+            "3_2103390806883348480",
+            "3_2103390806942081024"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "conversation_id": "2103390947040264237",
+        "created_at": "2026-09-25T07:47:35.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103390947040264237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPjtf40u0a",
+              "end": 74,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2103390947040264237/photo/1",
+              "media_key": "3_2103390806879150080",
+              "start": 51,
+              "url": "https://t.co/OPjtf40u0a"
+            },
+            {
+              "display_url": "pic.x.com/OPjtf40u0a",
+              "end": 74,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2103390947040264237/photo/1",
+              "media_key": "3_2103390806883348480",
+              "start": 51,
+              "url": "https://t.co/OPjtf40u0a"
+            },
+            {
+              "display_url": "pic.x.com/OPjtf40u0a",
+              "end": 74,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2103390947040264237/photo/1",
+              "media_key": "3_2103390806942081024",
+              "start": 51,
+              "url": "https://t.co/OPjtf40u0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103390947040264237",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103390806879150080"
+          },
+          {
+            "media_key": "3_2103390806883348480"
+          },
+          {
+            "media_key": "3_2103390806942081024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这期是我的大股东我操感恩響老师🥺🥺🥺🥺🥺🫴💖🫴💖🫴💖🫴💖只有这种可以用霸总语气和我讲话谢谢！！！！！ https://t.co/OPjtf40u0a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2103390947040264237",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 360,
+          "like_count": 1574,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

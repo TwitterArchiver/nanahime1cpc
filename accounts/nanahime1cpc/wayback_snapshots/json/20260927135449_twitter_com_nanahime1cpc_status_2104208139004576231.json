@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104208086043103232",
+        "3_2104208086030544896",
+        "3_2104208086068236288"
+      ]
+    },
+    "author_id": "2094681707052212224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104208139004576231",
+    "created_at": "2026-09-27T13:54:49.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T14:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104208139004576231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8oQKWAUh0D",
+          "end": 28,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2104208139004576231/photo/1",
+          "media_key": "3_2104208086043103232",
+          "start": 5,
+          "url": "https://t.co/8oQKWAUh0D"
+        },
+        {
+          "display_url": "pic.x.com/8oQKWAUh0D",
+          "end": 28,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2104208139004576231/photo/1",
+          "media_key": "3_2104208086030544896",
+          "start": 5,
+          "url": "https://t.co/8oQKWAUh0D"
+        },
+        {
+          "display_url": "pic.x.com/8oQKWAUh0D",
+          "end": 28,
+          "expanded_url": "https://x.com/nanahime1cpc/status/2104208139004576231/photo/1",
+          "media_key": "3_2104208086068236288",
+          "start": 5,
+          "url": "https://t.co/8oQKWAUh0D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104208139004576231",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104208086043103232"
+      },
+      {
+        "media_key": "3_2104208086030544896"
+      },
+      {
+        "media_key": "3_2104208086068236288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一些。。 https://t.co/8oQKWAUh0D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2104208086043103232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOmGw4akAAxrzp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 680,
+        "media_key": "3_2104208086030544896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOmGw1a8AA4tF_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 472,
+        "media_key": "3_2104208086068236288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOmGw-aEAA8BNR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104208086043103232",
+            "3_2104208086030544896",
+            "3_2104208086068236288"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104208139004576231",
+        "created_at": "2026-09-27T13:54:49.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T14:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104208139004576231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oQKWAUh0D",
+              "end": 28,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2104208139004576231/photo/1",
+              "media_key": "3_2104208086043103232",
+              "start": 5,
+              "url": "https://t.co/8oQKWAUh0D"
+            },
+            {
+              "display_url": "pic.x.com/8oQKWAUh0D",
+              "end": 28,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2104208139004576231/photo/1",
+              "media_key": "3_2104208086030544896",
+              "start": 5,
+              "url": "https://t.co/8oQKWAUh0D"
+            },
+            {
+              "display_url": "pic.x.com/8oQKWAUh0D",
+              "end": 28,
+              "expanded_url": "https://x.com/nanahime1cpc/status/2104208139004576231/photo/1",
+              "media_key": "3_2104208086068236288",
+              "start": 5,
+              "url": "https://t.co/8oQKWAUh0D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104208139004576231",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104208086043103232"
+          },
+          {
+            "media_key": "3_2104208086030544896"
+          },
+          {
+            "media_key": "3_2104208086068236288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一些。。 https://t.co/8oQKWAUh0D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2104208139004576231",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 365,
+          "like_count": 1692,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

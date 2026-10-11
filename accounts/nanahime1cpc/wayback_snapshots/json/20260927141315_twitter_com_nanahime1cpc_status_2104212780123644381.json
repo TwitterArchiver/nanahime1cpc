@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2103399664305467692",
+    "created_at": "2026-09-27T14:13:15.000Z",
+    "display_text_range": [
+      19,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104212780123644381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2095887246113320960",
+          "start": 0,
+          "username": "Ykwimif"
+        },
+        {
+          "end": 18,
+          "id": "1822109599459397632",
+          "start": 9,
+          "username": "zifensix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104212780123644381",
+    "in_reply_to_user_id": "2095887246113320960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103815100289405070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ykwimif @zifensix 常规剂量0.2-0.4mg，滥用剂量 0.4及以上，看你自己情况，不过注意bzds戒断很严重很痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2103399664305467692",
+        "created_at": "2026-09-27T14:13:15.000Z",
+        "display_text_range": [
+          19,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104212780123644381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2095887246113320960",
+              "start": 0,
+              "username": "Ykwimif"
+            },
+            {
+              "end": 18,
+              "id": "1822109599459397632",
+              "start": 9,
+              "username": "zifensix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104212780123644381",
+        "in_reply_to_user_id": "2095887246113320960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103815100289405070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ykwimif @zifensix 常规剂量0.2-0.4mg，滥用剂量 0.4及以上，看你自己情况，不过注意bzds戒断很严重很痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095887246113320960",
+        "conversation_id": "2103399664305467692",
+        "created_at": "2026-09-26T11:53:01.000Z",
+        "display_text_range": [
+          24,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103815100289405070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1822109599459397632",
+              "start": 0,
+              "username": "zifensix"
+            },
+            {
+              "end": 23,
+              "id": "2094681707052212224",
+              "start": 10,
+              "username": "nanahime1cpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103815100289405070",
+        "in_reply_to_user_id": "1822109599459397632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103547494798119244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifensix @nanahime1cpc 那我还想问问这个一次吃多少啊？我今天点菜成功了🥹🫶🏻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2104212780123644381",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 369,
+          "like_count": 1700,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 571
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-04T14:51:17.000Z",
+        "description": "",
+        "id": "2095887246113320960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104206919707885912",
+        "name": "Ykwim",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095887246113320960/1788718484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095887593447751680/Z91MkWGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 32,
+          "like_count": 1747,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 604
+        },
+        "url": "",
+        "username": "Ykwimif",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T03:16:10.000Z",
+        "description": "友所有人 自己找骂的除外😎\n09年 17岁 男的\n废话条/药物报告/轻微键政/还有发布一些日常🤓🤓🤓\n小号 @zifeneight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "zifeneight"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zifenod1",
+                "end": 23,
+                "expanded_url": "https://t.me/zifenod1",
+                "start": 0,
+                "url": "https://t.co/GFoTTuFsw2"
+              }
+            ]
+          }
+        },
+        "id": "1822109599459397632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104175029219123305",
+        "name": "自分",
+        "pinned_tweet_id": "2095062171684360268",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822109599459397632/1790405847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095053323384877056/BbrQ-zvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 187,
+          "like_count": 680,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/GFoTTuFsw2",
+        "username": "zifensix",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

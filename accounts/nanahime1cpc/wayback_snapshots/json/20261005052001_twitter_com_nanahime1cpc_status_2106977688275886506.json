@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2106952292482310355",
+    "created_at": "2026-10-05T05:20:01.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T06:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106977688275886506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1257977880841080832",
+          "start": 0,
+          "username": "NEKONO14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106977688275886506",
+    "in_reply_to_user_id": "1257977880841080832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106964429619490866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NEKONO14 是的，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 898,
+        "media_key": "16_2106964405909061632",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HT1w9siaAAAsmK1.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HT1w9siaAAAsmK1.mp4"
+          }
+        ],
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2106952292482310355",
+        "created_at": "2026-10-05T05:20:01.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106977688275886506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1257977880841080832",
+              "start": 0,
+              "username": "NEKONO14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106977688275886506",
+        "in_reply_to_user_id": "1257977880841080832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106964429619490866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NEKONO14 是的，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2106964405909061632"
+          ]
+        },
+        "author_id": "1257977880841080832",
+        "conversation_id": "2106952292482310355",
+        "created_at": "2026-10-05T04:27:20.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106964429619490866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2094681707052212224",
+              "start": 0,
+              "username": "nanahime1cpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZofNp5E6E",
+              "end": 46,
+              "expanded_url": "https://x.com/NEKONO14/status/2106964429619490866/photo/1",
+              "media_key": "16_2106964405909061632",
+              "start": 23,
+              "url": "https://t.co/BZofNp5E6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106964429619490866",
+        "in_reply_to_user_id": "2094681707052212224",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2106964405909061632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106952292482310355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanahime1cpc 大号没炸小号炸吗 https://t.co/BZofNp5E6E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2106977688275886506",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 411,
+          "like_count": 2406,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 719
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-06T10:18:06.000Z",
+        "description": "私は妃宮千早／O割クーポン／再フォーカス・再抑圧／ADHD／C-PTSD／薬理学と心理学が好き／同じような人には無限に親切／性別はお姉さん大人／お姉さんは永遠にあなたを愛します",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/RIH6N1kVpb"
+              }
+            ]
+          }
+        },
+        "id": "1257977880841080832",
+        "is_identity_verified": false,
+        "location": "惠泉女子学院",
+        "most_recent_tweet_id": "2106966946390687991",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2106338423317631143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257977880841080832/1790600695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106858172820721664/65LoQbrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 99,
+          "like_count": 155,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/RIH6N1kVpb",
+        "username": "NEKONO14",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

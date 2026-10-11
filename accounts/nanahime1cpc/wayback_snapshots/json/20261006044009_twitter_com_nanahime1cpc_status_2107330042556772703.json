@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107242132771672064"
+      ],
+      "media_source_tweet_id": [
+        "2107242141793603773"
+      ]
+    },
+    "author_id": "2094681707052212224",
+    "conversation_id": "2107330042556772703",
+    "created_at": "2026-10-06T04:40:09.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T05:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107330042556772703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2061202392935174147",
+          "start": 3,
+          "username": "DailystellaBS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DxiMhKeaFE",
+          "end": 86,
+          "expanded_url": "https://x.com/DailystellaBS/status/2107242141793603773/photo/1",
+          "media_key": "3_2107242132771672064",
+          "start": 63,
+          "url": "https://t.co/DxiMhKeaFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107330042556772703",
+    "lang": "cs",
+    "media_metadata": [
+      {
+        "media_key": "3_2107242132771672064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107242141793603773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DailystellaBS: DAILY STARR NOVA♥️ \nDay 126\nOP 🎨:@/MEMANEKO https://t.co/DxiMhKeaFE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1036,
+        "media_key": "3_2107242132771672064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT5tjhuXkAAzjUz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107242132771672064"
+          ],
+          "media_source_tweet_id": [
+            "2107242141793603773"
+          ]
+        },
+        "author_id": "2094681707052212224",
+        "conversation_id": "2107330042556772703",
+        "created_at": "2026-10-06T04:40:09.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T05:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107330042556772703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2061202392935174147",
+              "start": 3,
+              "username": "DailystellaBS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DxiMhKeaFE",
+              "end": 86,
+              "expanded_url": "https://x.com/DailystellaBS/status/2107242141793603773/photo/1",
+              "media_key": "3_2107242132771672064",
+              "start": 63,
+              "url": "https://t.co/DxiMhKeaFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107330042556772703",
+        "lang": "cs",
+        "media_metadata": [
+          {
+            "media_key": "3_2107242132771672064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107242141793603773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DailystellaBS: DAILY STARR NOVA♥️ \nDay 126\nOP 🎨:@/MEMANEKO https://t.co/DxiMhKeaFE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107242132771672064"
+          ]
+        },
+        "author_id": "2061202392935174147",
+        "conversation_id": "2107242141793603773",
+        "created_at": "2026-10-05T22:50:51.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T23:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107242141793603773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DxiMhKeaFE",
+              "end": 67,
+              "expanded_url": "https://x.com/DailystellaBS/status/2107242141793603773/photo/1",
+              "media_key": "3_2107242132771672064",
+              "start": 44,
+              "url": "https://t.co/DxiMhKeaFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107242141793603773",
+        "lang": "cs",
+        "media_metadata": [
+          {
+            "media_key": "3_2107242132771672064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 1772,
+          "like_count": 296,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "DAILY STARR NOVA♥️ \nDay 126\nOP 🎨:@/MEMANEKO https://t.co/DxiMhKeaFE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2107330042556772703",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 424,
+          "like_count": 2527,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 768
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T21:45:59.000Z",
+        "description": "STARR NOVAS ANTIDEPRESIVAS DIARIA!⋆˙⟡.✦ ݁˖⋆˙⟡\n~EVIL DOESN'T STAND A CHANCE!!. ݁₊★\nStella lovers allowed6️⃣7️⃣಄★\nDirigida por @Catbizkit & @leuwuis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 125,
+                "username": "Catbizkit"
+              },
+              {
+                "end": 146,
+                "start": 138,
+                "username": "leuwuis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "67.com",
+                "end": 23,
+                "expanded_url": "http://67.com",
+                "start": 0,
+                "url": "https://t.co/JMGlcPXqTM"
+              }
+            ]
+          }
+        },
+        "id": "2061202392935174147",
+        "is_identity_verified": false,
+        "location": "Removal=DM",
+        "most_recent_tweet_id": "2107242141793603773",
+        "name": "Daily StarrNova✮⋆˙",
+        "pinned_tweet_id": "2061208112661442782",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061202392935174147/1780264567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064455833962819584/SBCqMZvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 16,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 128
+        },
+        "url": "https://t.co/JMGlcPXqTM",
+        "username": "DailystellaBS",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

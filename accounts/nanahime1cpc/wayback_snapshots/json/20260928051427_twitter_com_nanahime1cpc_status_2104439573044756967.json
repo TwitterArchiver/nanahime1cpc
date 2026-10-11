@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2094681707052212224",
+    "conversation_id": "2104439573044756967",
+    "created_at": "2026-09-28T05:14:27.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104439573044756967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xingqierdpri/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Xingqierdpri/status/2104223425346830550",
+          "start": 15,
+          "url": "https://t.co/fMwBqG4Byy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104439573044756967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104223425346830550",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好难受我笑得心脏疼。还有满减 https://t.co/fMwBqG4Byy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094681707052212224",
+        "conversation_id": "2104439573044756967",
+        "created_at": "2026-09-28T05:14:27.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104439573044756967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xingqierdpri/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Xingqierdpri/status/2104223425346830550",
+              "start": 15,
+              "url": "https://t.co/fMwBqG4Byy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104439573044756967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104223425346830550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好难受我笑得心脏疼。还有满减 https://t.co/fMwBqG4Byy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096845409763377152",
+        "conversation_id": "2104223425346830550",
+        "created_at": "2026-09-27T14:55:33.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104223425346830550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104223425346830550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "介于您o了右美 pr等这边给您的肝报价10元肾报价10元两个一起一共19元您看怎么样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T07:01:05.000Z",
+        "description": "我是菜菜，二号机已坠机，请帮我寻回互关｜od自伤｜傻福精神病休学中｜坚定的爱乱TV｜我的灵魂相伴@kurokisama_TvT｜乱乱你带我走吧｜直fo是喜欢泥💖｜防炸小号@roder_6vfjp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "kurokisama_TvT"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "roder_6vfjp"
+              }
+            ]
+          }
+        },
+        "id": "2094681707052212224",
+        "is_identity_verified": false,
+        "location": "在世界中心呼唤爱的野兽",
+        "most_recent_tweet_id": "2104439573044756967",
+        "name": "菜菜警官3.0",
+        "pinned_tweet_id": "2102380357089890734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094681707052212224/1789392369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 376,
+          "like_count": 1803,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "nanahime1cpc",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:18:47.000Z",
+        "description": "低精力随回/不喜欢被过多打扰\n负面多/半休学状态/放养/人穷事多\n希望遇到我的天使们一起走出炼狱迎接天堂洗礼",
+        "id": "2096845409763377152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104394651633655889",
+        "name": "血清（4.0）",
+        "pinned_tweet_id": "2102674264281485347",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096845409763377152/1788762046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096845690005803008/WCHw0GaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 119,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 548
+        },
+        "url": "",
+        "username": "Xingqierdpri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
